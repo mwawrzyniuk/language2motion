@@ -1,0 +1,6353 @@
+00001: walk forward
+00002: walk forward
+00003: walk
+00004: walk forward
+00004: goe forward
+00005: walk forward
+00006: goe forward
+00006: walk forward
+00007: walk
+00007: walk forward
+00008: walk forward
+00009: stand walk
+00009: left do forward walk
+00009: make forward
+00010: walk backward
+00011: left backward walk
+00011: walk backward
+00013: walk backward
+00014: walk backward
+00015: walk backward
+00016: walk backward
+00016: left backward walk
+00016: walk backward
+00016: walk
+00016: backward
+00016: stand backward move
+00016: walk backward
+00016: walk backward
+00016: walk backward
+00017: walk backward
+00017: walk backward
+00017: walk backward
+00018: walk backward
+00019: turn
+00019: walk counterclockwis
+00019: anticlockwis
+00020: counter walk clockwis
+00021: walk
+00022: walk
+00022: left walk
+00022: counter-clockwis walk
+00022: walk
+00023: counter-clockwis walk
+00023: walk
+00023: walk
+00023: walk
+00023: left walk
+00023: walk
+00023: walk
+00023: around turn
+00023: left walk
+00023: walk
+00023: walk left
+00024: walk
+00025: left walk
+00025: left walk
+00026: counter-clockwis walk
+00026: walk counterclockwis
+00027: walk
+00027: walk
+00028: goe clockwis
+00029: walk
+00029: walk clockwis
+00030: walk clockwis
+00030: run clockwis
+00031: walk
+00031: walk
+00031: walk
+00032: walk clockwis
+00032: down walk
+00032: walk
+00032: walk turn
+00033: walk clockwis
+00033: walk
+00034: walk clockwis
+00034: walk
+00035: walk
+00036: walk clockwis
+00037: walk clockwis
+00037: walk clockwis
+00037: walk
+00038: walk
+00038: walk turn
+00039: perform forward walk
+00039: perform
+00040: walk
+00040: walk
+00040: walk turn
+00041: walk
+00041: walk
+00041: walk clockwis
+00042: walk clockwis
+00042: walk
+00042: goe
+00042: sit
+00043: walk clockwis
+00043: perform
+00043: down sit
+00044: walk rightward
+00044: walk
+00045: walk clockwis
+00046: walk clockwis
+00047: walk left-turn
+00047: walk forward
+00047: walk
+00048: walk backward
+00048: goe left backward
+00049: walk backward
+00049: left backward
+00049: walk backward
+00050: walk backward
+00050: walk backward
+00050: make backward
+00051: walk backward
+00052: walk backward
+00052: walk backward
+00053: walk backward
+00053: walk backward
+00053: walk
+00054: walk backward
+00054: goe left backward
+00055: walk backward
+00055: left backward walk
+00055: backward
+00056: walk backward
+00056: walk backward
+00057: walk backward
+00057: left backward walk
+00058: walk
+00059: goe counterclockwis
+00059: left walk
+00060: walk counterclockwis
+00061: counter-clockwis walk
+00061: walk
+00061: counter-clockwis walk
+00061: walk
+00061: make
+00061: around turn
+00061: walk
+00061: walk
+00061: walk anti-clockwis
+00061: walk counterclockwis
+00061: walk left
+00061: walk
+00061: walk counterclockwis
+00062: counter-clockwis walk
+00062: left walk
+00063: walk
+00063: left walk
+00064: walk counterclockwis
+00064: left walk
+00065: left walk
+00066: left walk
+00067: counter-clockwis walk
+00067: counter-clockwis walk
+00067: walk
+00067: walk around
+00067: walk
+00067: walk
+00067: walk
+00067: left walk
+00067: goe counterclockwis
+00067: walk anticlockwis
+00068: walk
+00069: walk clockwis
+00070: walk clockwis
+00070: walk
+00071: walk clockwis
+00071: walk
+00072: walk
+00073: walk
+00074: walk
+00075: walk clockwis
+00075: walk
+00076: walk
+00077: walk clockwis
+00077: walk clockwis
+00077: walk
+00077: turn
+00077: walk
+00077: by walk make left
+00077: goe around
+00077: walk
+00077: walk clockwis
+00078: walk counterclockwis
+00078: walk left-sid
+00079: by left walk
+00079: left move
+00079: walk left
+00079: walk anticlockwis
+00080: walk
+00080: left walk
+00080: walk
+00081: left turn walk
+00081: left turn walk
+00082: walk counterclockwis
+00082: walk perform left
+00083: turn left make
+00083: goe left around
+00084: left walk
+00085: left walk
+00085: turn left perfom
+00086: left walk
+00086: walk clockwis
+00087: left toward walk
+00087: goe left counterclockwis
+00087: left turn walk
+00088: turn
+00089: walk
+00090: walk turn
+00091: walk turn
+00091: walk clockwis
+00092: turn make
+00092: walk
+00093: walk
+00093: goe clockwis
+00093: walk
+00094: walk
+00094: turn perfom
+00094: turn
+00095: turn
+00095: perform
+00095: walk
+00096: turn
+00097: goe clockwis
+00097: walk
+00097: turn
+00097: walk
+00098: walk perform forward
+00098: walk
+00098: walk forward
+00098: walk forward
+00098: walk forward
+00098: walk forward
+00099: walk forward
+00099: forward move
+00099: forward
+00099: forward
+00100: walk forward
+00101: walk forward
+00101: walk
+00102: walk forward
+00102: walk forward
+00102: walk
+00102: walk forward
+00102: walk
+00102: walk forward
+00102: left walk
+00103: walk forward move
+00103: walk forward
+00104: walk forward
+00105: walk forward
+00105: goe forward
+00106: walk forward left
+00106: walk forward
+00106: walk
+00107: walk forward
+00108: walk backward
+00108: walk backward
+00108: walk backward
+00108: back
+00108: back off
+00108: do backward
+00108: walk backward
+00108: walk backward
+00108: walk backward
+00108: backward move
+00108: walk backward
+00108: backward
+00108: left backward move walk
+00108: back
+00108: goe backward
+00108: walk backward
+00109: walk backward
+00110: swing by walk backward
+00110: goe left backward
+00110: walk backward
+00110: walk backward
+00111: walk backward
+00111: walk backward
+00112: walk backward
+00112: walk backward
+00112: walk backward
+00113: walk backward
+00113: goe backward
+00114: walk backward
+00114: walk backward
+00114: walk backward
+00114: walk backward
+00114: goe backward
+00116: walk backward
+00116: left backward walk
+00116: backward
+00116: walk backward
+00116: walk backward
+00116: walk backward
+00117: walk backward
+00118: walk counterclockwis
+00118: walk counterclockwis
+00118: left walk
+00119: left walk
+00119: walk anticlockwis
+00120: walk counterclockwis
+00121: counter-clockwis walk
+00121: walk
+00122: walk counterclockwis
+00122: walk clockwis
+00122: walk
+00123: counter-clockwis walk
+00124: walk
+00124: left walk
+00125: walk counterclockwis
+00125: walk
+00126: walk counterclockwis
+00126: left walk
+00127: move counterclockwis
+00128: walk clockwis
+00129: walk clockwis
+00129: perform
+00130: walk
+00130: goe clockwis
+00130: walk
+00130: walk
+00131: walk
+00131: walk
+00132: walk
+00132: walk clockwis
+00133: walk clockwis
+00133: walk
+00134: walk clockwis
+00134: walk
+00135: walk clockwis
+00136: walk clockwis
+00136: walk clockwis
+00136: goe around clockwis
+00136: walk clockwis
+00136: walk
+00137: walk clockwis
+00138: left bend walk
+00139: left turn walk
+00139: left walk
+00139: left turn
+00140: turn counter-clockwis make
+00140: counter-clockwis walk
+00140: performin walk left
+00140: left turn
+00141: left toward walk
+00141: left walk
+00141: walk
+00142: around walk
+00142: left turn walk
+00142: left walk
+00143: left turn
+00144: walk counterclockwis
+00144: walk counterclockwis
+00144: left walk
+00145: left turn walk
+00145: walk
+00145: u-turn perform
+00145: left walk
+00145: left turn along walk
+00145: walk left
+00145: left walk
+00145: left turn toward walk
+00145: left turn walk
+00145: walk left
+00145: walk
+00145: left walk
+00146: left turn
+00146: left turn walk
+00147: turn left forward walk
+00147: left turn walk
+00147: left turn
+00148: walk clockwis
+00148: walk
+00149: walk clockwis
+00149: walk perform bend
+00150: turn walk forward
+00151: turn
+00151: walk
+00151: perform
+00152: walk
+00152: walk turn
+00152: walk
+00153: goe
+00153: walk
+00154: turn
+00154: walk
+00155: turn
+00155: walk turn
+00156: walk turn ahead
+00157: turn
+00158: walk forward
+00158: walk
+00158: walk forward
+00158: forward
+00158: walk forward
+00159: walk
+00159: walk forward
+00160: walk forward
+00160: walk forward
+00161: goe forward
+00161: walk forward
+00161: walk forward
+00162: walk forward
+00162: walk
+00163: walk forward
+00163: walk forward
+00164: walk forward
+00164: walk forward
+00165: walk forward
+00165: forward
+00165: walk forward
+00166: walk
+00167: walk forward
+00167: perfom
+00167: walk forward
+00168: goe backward
+00168: left backward
+00168: walk backward
+00168: walk backward
+00169: walk backward
+00169: left backward
+00169: backward
+00170: walk backward
+00170: walk backward
+00171: walk backward
+00171: walk backward
+00171: walk backward
+00172: goe back
+00173: walk backward
+00173: backward
+00173: backward
+00174: back
+00174: walk back
+00175: walk backward
+00175: make backward
+00175: walk backward
+00175: 
+00175: walk backward
+00176: walk backward
+00176: walk backward
+00177: walk backward
+00177: walk backward
+00177: walk backward
+00177: walk backward
+00177: walk backward
+00177: backward
+00178: walk
+00178: counter-clockwis walk
+00178: walk anticlockwis
+00178: left walk
+00179: around anti-clockwis walk
+00179: walk counterclockwis
+00179: left walk
+00180: left walk
+00180: counter-clockwis walk
+00180: walk
+00181: walk counterclockwis
+00181: long make walk counterclockwis
+00182: walk clockwis
+00183: walk
+00183: walk forward counterclockwis
+00183: left walk
+00184: walk counterclockwis
+00185: counter-clockwis walk
+00186: walk
+00186: walk counterclockwis
+00187: left walk
+00188: walk clockwis
+00189: walk clockwis
+00189: walk
+00190: walk
+00191: walk clockwis
+00191: walk clockwis
+00191: walk
+00191: walk
+00192: walk
+00192: walk
+00193: walk clockwis
+00194: walk clockwis
+00194: walk
+00194: walk
+00195: walk clockwis
+00196: walk clockwis
+00196: goe clockwis
+00197: walk
+00197: walk
+00198: goe
+00199: walk bend
+00199: walk
+00200: walk
+00201: walk
+00201: goe clockwis
+00202: walk turn forward perform
+00202: walk
+00203: walk
+00204: turn
+00204: walk turn
+00205: walk
+00206: turn make clockwis
+00206: walk clockwis
+00207: turn
+00207: walk clockwis
+00207: walk
+00207: turn
+00208: walk forward
+00208: walk forward
+00208: walk forward
+00209: walk
+00209: walk forward
+00210: walk forward
+00211: walk forward
+00211: walk forward
+00212: walk
+00213: left walk
+00213: walk forward
+00214: walk forward
+00215: walk forward
+00216: walk forward
+00217: walk forward
+00217: walk forward
+00218: walk backward
+00218: goe left backward
+00218: walk backward
+00218: walk backward
+00219: walk backward
+00219: walk backward
+00219: walk back
+00222: backward move
+00223: walk backward
+00223: walk backward
+00224: walk backward
+00224: walk backward
+00225: walk backward
+00225: goe backward
+00225: walk backward
+00225: walk backward
+00226: walk backward
+00227: walk counterclockwis
+00227: walk
+00228: walk
+00228: counter-clockwis walk
+00228: left walk
+00228: anti-clockwis move
+00228: walk
+00229: counter-clockwis walk
+00229: counterclockwis
+00229: left walk
+00229: walk
+00229: walk counterclockwis
+00229: goe left around
+00230: walk counterclockwis
+00230: walk
+00231: counter-clockwis walk
+00231: walk
+00231: walk anticlockwis
+00232: walk
+00232: left walk
+00232: walk
+00233: walk make along
+00233: walk counterclockwis
+00233: walk left
+00233: walk
+00234: move
+00235: move clockwis
+00235: left walk
+00236: counter walk clockwis
+00237: walk clockwis
+00237: walk
+00238: walk clockwis
+00239: walk
+00239: walk forward clockwis
+00239: walk
+00240: walk
+00240: walk clockwis
+00241: walk
+00241: goe around
+00241: walk
+00241: perform
+00242: walk
+00243: walk clockwis
+00243: walk forward clockwis
+00244: walk clockwis
+00244: walk up
+00245: walk clockwis
+00245: walk
+00245: walk forward clockwis
+00246: perform
+00246: walk
+00247: walk
+00247: walk
+00248: walk turn
+00248: walk turn
+00248: walk
+00249: turn make clockwis
+00249: walk
+00250: left turn
+00251: walk
+00251: walk clockwis
+00251: walk
+00252: toward
+00252: walk turn
+00253: around turn toward
+00253: walk
+00254: left turn walk
+00254: turn
+00254: walk perform bend
+00255: walk
+00255: walk turn
+00255: perform
+00255: walk
+00255: turn
+00256: turn perform forward walk
+00256: walk
+00256: walk toward
+00256: come
+00256: walk
+00256: come
+00256: turn
+00256: walk
+00256: walk
+00256: walk turn toward
+00256: by turn
+00256: walk
+00256: perform
+00256: walk
+00256: walk perform
+00256: walk forward
+00256: turn perfom
+00256: turn do
+00256: walk perform bend
+00257: left toward
+00257: goe counterclockwis
+00258: left toward walk
+00258: goe counterclockwis
+00258: left walk
+00259: left turn walk
+00260: left bend walk
+00260: walk left
+00260: left turn
+00260: left walk
+00260: left turn walk
+00260: left walk
+00260: walk left
+00260: walk forward
+00260: turn left perfom
+00262: counter walk clockwis
+00262: left turn walk
+00262: left walk
+00263: around perform left move
+00263: turn left perfom
+00264: left turn
+00265: walk
+00265: walk perform left
+00265: left walk
+00266: left turn
+00266: left walk
+00267: walk backward
+00267: walk backward
+00268: walk backward
+00268: walk backward
+00269: walk backward
+00269: walk backward
+00269: left backward walk
+00269: perfom backward
+00269: goe backward
+00270: back
+00270: backward
+00271: walk backward
+00271: walk backward
+00272: walk backward
+00273: back
+00273: walk backward
+00273: walk backward
+00274: walk backward
+00274: walk backward
+00274: walk backward
+00275: back
+00275: walk backward
+00275: walk backward
+00276: walk backward
+00276: walk backward
+00276: walk backward
+00277: left walk
+00277: counter-clockwis walk
+00277: left walk
+00277: walk
+00278: left walk
+00279: walk counterclockwis
+00280: left walk
+00281: walk
+00281: walk left
+00282: counter-clockwis walk
+00282: walk counterclockwis
+00283: walk perform
+00283: walk
+00283: left walk
+00283: walk
+00284: walk counterclockwis
+00284: left walk
+00284: left walk
+00285: walk
+00286: move
+00286: walk
+00286: left walk
+00287: walk
+00287: goe clockwis
+00287: move
+00287: walk clockwis
+00288: walk clockwis
+00289: walk clockwis
+00289: goe clockwis
+00289: walk
+00290: walk clockwis
+00291: clockwis
+00291: walk
+00291: walk
+00292: walk clockwis
+00293: walk
+00293: walk
+00294: walk
+00295: walk
+00295: walk
+00296: walk counterclockwis
+00297: left turn walk
+00297: walk counterclockwis
+00297: around turn left
+00298: left walk
+00299: counter walk clockwis
+00299: left perform bend walk
+00300: walk counterclockwis
+00300: left turn
+00301: left turn walk
+00301: left
+00302: left turn walk ahead
+00302: walk left
+00303: left walk
+00304: turn left forward walk
+00304: left forward walk
+00304: turn left perfom
+00305: walk counterclockwis
+00305: walk perform left
+00305: turn left perfom
+00306: left bend walk
+00307: turn walk forward
+00307: goe along
+00308: stand walk
+00308: walk turn
+00309: walk
+00310: walk turn
+00310: goe clockwis
+00310: walk perform
+00311: walk
+00311: turn
+00312: walk
+00312: walk
+00313: walk clockwis
+00314: walk
+00314: turn
+00315: walk clockwis
+00316: turn
+00317: walk forward
+00318: walk forward
+00318: walk forward
+00319: walk forward
+00319: walk forward
+00320: walk
+00320: walk forward
+00320: make forward
+00320: left perform jump
+00321: walk forward
+00321: walk forward
+00321: walk forward
+00321: walk forward
+00322: walk forward
+00322: walk forward
+00322: walk forward
+00323: goe forward
+00324: walk forward
+00324: walk forward
+00325: walk forward
+00325: walk
+00326: walk forward
+00326: left forward walk
+00326: walk forward
+00326: walk forward
+00327: swing by walk backward
+00327: walk backward
+00327: walk backward
+00328: walk backward
+00329: walk backward
+00330: walk backward
+00331: stand walk back
+00331: walk backward
+00331: backward
+00331: walk backward
+00331: walk backward
+00332: walk backward
+00332: walk backward
+00332: left backward walk
+00332: walk backward
+00332: walk backward
+00333: walk backward
+00334: walk backward
+00334: left backward
+00334: walk backward
+00334: walk backward
+00334: walk backward
+00335: walk backward
+00335: walk backward
+00336: walk backward
+00336: backward
+00336: walk backward
+00336: walk backward
+00337: counter walk clockwis
+00338: walk
+00339: walk counterclockwis
+00339: walk counterclockwis
+00339: left walk
+00340: walk counterclockwis
+00341: counter walk clockwis
+00341: walk
+00342: left walk
+00342: counter-clockwis walk
+00342: walk anticlockwis
+00343: counter walk
+00343: walk
+00344: walk counterclockwis
+00344: walk
+00345: left walk
+00346: walk counterclockwis
+00346: walk forward counterclockwis
+00347: by walk back
+00347: walk
+00347: walk clockwis
+00348: walk clockwis
+00348: walk clockwis
+00348: walk
+00348: walk
+00349: walk
+00349: walk
+00349: walk
+00350: walk clockwis
+00350: walk clockwis
+00350: walk clockwis
+00351: walk clockwis
+00352: walk
+00352: walk
+00353: walk clockwis
+00354: walk clockwis
+00355: walk clockwis
+00355: walk clockwis
+00356: walk
+00356: left perform jump
+00357: left bend walk
+00358: left turn
+00358: left walk
+00358: left turn
+00359: walk counterclockwis
+00359: walk left
+00360: left walk
+00360: goe left counterclockwis
+00361: left turn walk
+00361: goe left along
+00361: left turn
+00362: walk counterclockwis
+00362: walk perform left
+00363: walk counterclockwis
+00364: left turn
+00364: left turn walk
+00365: goe left counterclockwis
+00366: walk clockwis
+00367: turn
+00367: walk
+00367: walk
+00368: walk clockwis
+00369: walk clockwis
+00369: perform
+00370: turn
+00370: walk
+00371: walk clockwis
+00372: walk turn
+00372: turn
+00372: walk
+00373: walk
+00373: walk perform
+00373: walk clockwis
+00374: walk
+00374: turn walk forward
+00375: walk
+00375: goe clockwis
+00376: walk forward
+00377: walk
+00377: walk forward
+00378: walk forward
+00379: walk forward
+00380: walk forward
+00381: walk forward
+00381: walk forward
+00381: goe
+00381: walk
+00381: walk forward
+00381: walk forward
+00381: walk forward
+00381: walk forward
+00381: walk
+00382: goe forward
+00383: swing walk are
+00383: walk forward
+00384: walk forward
+00384: walk forward
+00384: walk forward
+00385: walk backward
+00385: left backward
+00386: walk backward
+00386: walk backward
+00386: walk backward
+00387: walk backward
+00388: walk backward move
+00388: walk forward backward
+00388: walk backward
+00388: walk backward
+00388: backward
+00389: walk backward
+00389: walk back
+00389: walk backward
+00390: walk backward
+00390: walk backward
+00390: goe backward
+00391: walk backward
+00391: walk backward
+00391: walk backward
+00391: goe backward
+00392: walk backward
+00392: walk backward
+00393: walk backward
+00393: walk backward
+00394: walk backward
+00394: walk backward
+00396: counter walk clockwis
+00396: counter-clockwis walk
+00397: walk
+00397: walk forward counterclockwis
+00397: left walk
+00398: walk
+00398: counter-clockwis do
+00398: left walk
+00399: counter walk clockwis
+00399: left walk
+00400: left walk
+00401: counter-clockwis walk
+00401: walk
+00402: walk
+00402: walk
+00402: left walk
+00403: around walk clockwis
+00403: walk clockwis
+00403: walk clockwis
+00403: walk
+00404: left walk
+00404: walk
+00404: walk
+00405: walk rightward
+00406: by walk back
+00407: walk
+00407: walk
+00407: walk
+00408: walk clockwis
+00408: goe around
+00408: goe clockwis
+00409: walk clockwis
+00410: left walk
+00410: left forward walk
+00411: walk
+00412: walk left
+00412: left walk
+00412: left turn walk
+00412: left walk
+00413: around walk
+00414: turn
+00414: walk perform
+00415: make move
+00415: turn walk forward
+00415: walk forward back perform
+00416: turn
+00417: around walk
+00417: perform forward walk
+00417: walk forward
+00417: walk turn
+00418: walk
+00419: walk
+00420: turn
+00421: left walk
+00422: turn walk forward
+00422: walk turn
+00422: walk
+00423: turn
+00424: walk forward
+00424: forward
+00424: walk forward
+00424: walk
+00425: walk forward
+00426: walk forward
+00426: walk
+00427: walk
+00427: walk forward
+00427: walk forward
+00427: walk
+00428: walk forward
+00429: walk
+00430: walk forward
+00430: walk
+00431: walk forward
+00432: walk forward
+00432: goe forward
+00432: perform forward
+00432: walk forward
+00433: walk forward
+00434: walk forward
+00435: walk
+00435: walk
+00436: walk forward
+00436: walk forward
+00437: walk forward
+00437: walk forward
+00438: walk forward
+00438: walk forward
+00439: walk forward
+00439: walk forward
+00439: walk forward
+00440: walk forward
+00440: walk forward
+00440: walk forward
+00440: walk forward
+00441: walk forward
+00442: forward
+00443: walk
+00443: walk forward
+00444: walk forward
+00444: walk forward
+00445: forward
+00445: stand run
+00446: run
+00446: stand run
+00446: jog
+00447: run
+00447: run forward
+00448: run forward
+00448: run
+00448: run forward
+00448: run forward
+00448: run
+00449: run forward
+00449: ran
+00449: run
+00449: run
+00449: 
+00449: stand come run
+00449: forward
+00449: run
+00450: do
+00450: forward jogg
+00450: jog
+00451: run forward
+00451: walk forward
+00452: run
+00452: forward jog
+00452: run
+00453: 
+00453: run
+00453: run forward
+00453: run
+00454: 
+00454: run
+00454: run forward
+00455: walk
+00456: around walk
+00457: walk
+00457: turn perfom
+00458: turn forward along move
+00458: walk
+00459: walk
+00459: turn
+00460: walk
+00460: walk clockwis
+00461: turn walk forward
+00461: goe forward
+00461: turn perfom
+00462: walk
+00462: turn walk forward
+00463: turn
+00464: walk
+00464: turn
+00464: walk forward
+00464: turn
+00465: turn
+00465: left forward perform back walk turn
+00465: turn
+00465: turn walk forward
+00466: turn
+00466: turn walk forward
+00467: turn walk forward
+00467: around forward back walk turn
+00468: move goe around forward back turn
+00468: around turn forward walk
+00469: walk turn
+00469: 
+00469: turn walk forward back
+00469: turn walk forward back
+00469: left forward around back walk turn
+00469: turn walk forward back
+00469: turn walk forward
+00469: turn around forward walk
+00469: make forward back walk turn
+00470: turn
+00470: turn walk forward
+00470: turn rigth
+00471: turn walk forward back
+00471: turn walk forward
+00471: around turn left
+00472: turn walk forward
+00472: around turn clockwis
+00473: walk turn
+00473: turn walk forward back
+00473: do left around forward backward walk turn
+00474: perform forward back walk turn
+00474: around by back walk turn
+00475: left forward back walk turn
+00476: turn walk forward back
+00477: left forward back walk turn
+00478: around left by back walk turn
+00478: turn left forward walk
+00478: left u-turn make
+00479: turn walk forward back
+00479: goe by left forward
+00479: turn perform
+00479: left forward back walk turn
+00480: goe around forward by back turn
+00480: turn walk forward
+00481: turn left forward walk
+00482: turn walk forward back
+00483: around turn back walk
+00483: around turn forward walk
+00483: around forward back walk turn
+00484: turn around forward walk
+00484: turn
+00484: swing make
+00484: u-turn make
+00484: walk turn
+00484: walk turn
+00484: turn left make walk
+00484: walk turn back ahead
+00484: left turn
+00485: turn left forward walk
+00486: left turn
+00487: left turn
+00487: walk
+00487: left turn walk
+00487: left walk
+00487: turn left perfom
+00488: turn left make walk
+00489: turn left forward walk
+00489: left walk
+00489: left walk
+00490: left turn
+00490: turn left forward walk
+00491: turn left make
+00491: turn left perfom
+00492: left walk
+00492: walk
+00493: left turn walk
+00494: left turn walk ahead
+00495: walk forward
+00495: walk forward
+00496: forward
+00496: walk forward
+00496: walk forward
+00496: walk forward
+00496: 
+00496: perfom
+00496: make forward
+00497: walk
+00497: walk forward
+00497: goe forward
+00497: walk forward
+00497: walk
+00498: walk
+00498: walk
+00499: walk forward
+00499: walk
+00500: goe forward
+00500: walk
+00501: walk forward
+00502: walk forward
+00502: walk
+00503: walk forward
+00504: walk
+00504: walk forward
+00504: 
+00504: walk forward
+00504: walk forward
+00504: stand walk forward
+00504: walk forward
+00504: walk forward
+00504: goe forward
+00504: walk forward
+00505: run
+00506: run
+00506: run perform
+00506: run forward
+00506: run
+00507: run
+00507: run forward
+00508: run
+00508: run
+00509: run
+00509: down run
+00510: 
+00510: run
+00510: run
+00511: run forward
+00512: run
+00513: run forward
+00514: turn
+00515: goe clockwis
+00516: walk
+00516: turn come forward walk
+00516: walk forward
+00516: turn walk forward
+00516: turn walk forward
+00517: walk turn
+00517: turn walk forward
+00517: walk turn
+00517: left bend walk
+00517: goe bend
+00517: turn forward
+00517: turn make
+00518: turn walk forward
+00518: turn walk forward
+00518: turn walk forward
+00518: turn perfom
+00519: turn left perform
+00519: walk
+00520: goe
+00520: turn walk forward
+00520: perform
+00520: walk
+00521: walk turn
+00522: walk turn
+00522: walk
+00522: walk
+00523: walk bend
+00523: turn perform do forward
+00523: walk forward
+00524: walk
+00524: walk forward
+00525: walk forward
+00525: walk forward
+00525: walk forward
+00526: walk forward
+00526: walk forward
+00527: walk forward
+00527: walk forward
+00528: walk forward
+00529: walk forward
+00529: walk forward
+00530: walk forward
+00530: walk forward
+00530: goe forward
+00531: walk forward
+00532: walk forward
+00532: walk forward
+00533: walk forward
+00534: walk forward
+00535: walk forward
+00535: walk forward
+00536: walk forward
+00536: forward
+00536: walk
+00537: walk forward
+00538: walk forward
+00539: walk forward
+00539: walk forward
+00539: walk forward
+00539: 
+00540: walk forward
+00540: walk forward
+00541: walk forward
+00541: walk forward
+00542: walk
+00542: walk forward
+00542: walk forward
+00542: forward
+00543: walk forward
+00544: goe forward
+00545: walk forward
+00546: walk forward
+00547: walk
+00547: goe forward
+00548: walk forward
+00549: walk
+00550: walk forward
+00551: walk forward
+00551: walk
+00552: walk forward
+00552: goe forward
+00552: walk forward
+00552: walk forward
+00552: walk
+00553: walk forward
+00553: walk forward
+00553: walk forward
+00554: along jog
+00554: run forward
+00555: run
+00556: run forward
+00557: move get
+00557: walk
+00557: run
+00557: run
+00558: forward
+00558: run forward
+00558: run forward
+00558: run forward
+00558: walk
+00559: run forward
+00559: down run
+00559: run
+00559: run
+00559: 
+00559: walk
+00559: walk
+00559: goe forward
+00559: run
+00559: run
+00560: run
+00560: walk
+00560: 
+00560: run
+00560: walk forward
+00560: walk
+00561: walk
+00561: make forward
+00561: 
+00561: forward jog
+00562: 
+00562: come forward
+00562: jog move up
+00562: perfom
+00563: forward lean jog
+00563: forward jog
+00563: run
+00564: around walk
+00564: walk
+00565: turn
+00566: left turn
+00567: around walk
+00567: walk turn
+00567: down walk hang
+00568: walk clockwis
+00569: walk
+00569: walk
+00570: walk
+00570: goe clockwis
+00571: walk
+00572: walk bend
+00573: walk
+00573: walk
+00573: walk
+00573: walk clockwis
+00574: turn left forward walk
+00575: left turn
+00575: walk
+00575: left walk
+00575: walk clockwis
+00576: left turn walk
+00576: turn left forward walk
+00577: turn left make walk
+00577: left forward walk
+00577: walk
+00578: left turn
+00579: turn left forward walk
+00579: left walk
+00579: left around walk
+00580: left turn along move
+00580: left walk
+00581: walk forward
+00581: turn left forward walk
+00581: turn left perform
+00582: walk counterclockwis
+00582: perform forward walk
+00583: walk left
+00583: walk
+00584: 
+00584: run forward
+00584: run
+00584: run
+00584: run forward
+00585: forward
+00586: run forward
+00586: run forward
+00586: run
+00586: come run
+00587: run
+00587: run forward
+00587: down run
+00588: run forward
+00589: run forward
+00589: run forward
+00589: forward
+00590: run forward
+00590: run forward
+00590: run backward lean
+00590: run
+00590: run
+00591: run
+00591: run
+00591: run forward
+00591: run forward
+00592: run
+00592: run
+00592: run
+00592: jog
+00592: run
+00592: run forward
+00593: run
+00593: run forward
+00593: run
+00593: run forward
+00593: run
+00594: do squad
+00594: perform
+00594: perform
+00594: perform forward
+00594: perform be
+00594: exercis squad
+00594: make
+00594: 
+00595: perform
+00595: 
+00595: do
+00596: perform
+00596: knee bend
+00596: squad
+00596: perform
+00597: knee bend
+00597: perform
+00598: singl perform
+00598: exercis squad
+00599: do
+00599: perform exercis squad
+00599: singl perform
+00599: 
+00599: do
+00599: 
+00600: perform
+00600: turn
+00600: left
+00600: 
+00600: turn
+00600: 
+00600: 
+00600: turn
+00601: perform
+00601: 
+00602: make handstand
+00602: stand perform
+00602: do handstand
+00603: do handstand
+00604: do handstand
+00604: perform handstand
+00604: make handstand
+00604: goe come handstand back
+00604: handstand
+00605: stand make
+00606: handstand
+00606: perform handstand up
+00606: perform handstand
+00606: perfom handstand
+00606: handstand
+00607: kick
+00608: perform sidekick
+00608: kick
+00609: perform kick
+00609: give high-kick
+00610: kick
+00610: kick
+00610: kick
+00610: perform kick
+00611: perform kick
+00611: perform kick
+00611: kick
+00612: perform forward kick make
+00612: push perform kick
+00613: walk
+00613: goe forward
+00613: walk forward
+00614: walk forward
+00614: forward
+00614: walk forward
+00614: walk
+00615: goe forward
+00615: walk
+00615: walk forward
+00615: walk
+00615: walk
+00616: walk forward
+00616: stand walk forward
+00617: walk forward
+00617: walk forward
+00618: walk forward
+00618: walk
+00619: walk forward
+00619: walk
+00619: goe forward
+00620: walk forward
+00620: walk
+00621: walk forwardd
+00621: forward move
+00621: walk forward
+00621: walk forward
+00621: 
+00621: walk forward
+00622: walk forward
+00622: walk forward
+00623: walk forward
+00623: walk forward
+00623: walk
+00624: walk forward
+00625: walk
+00625: walk forward
+00626: walk forward
+00626: walk forward
+00627: walk forward
+00628: walk forward
+00629: walk forward
+00630: walk forward
+00630: forward
+00631: 
+00631: walk
+00631: goe forward
+00632: walk forward
+00633: walk forward
+00633: walk forward
+00634: walk forward
+00634: walk forward
+00634: walk
+00634: run
+00634: walk
+00635: forward
+00635: forward move
+00635: walk
+00636: make forward
+00636: walk forward
+00637: walk forward
+00637: walk
+00637: walk forward
+00638: walk forward
+00638: walk forward
+00638: walk
+00639: walk forward
+00640: stand walk forwad
+00640: walk
+00640: walk forward
+00640: walk forward lean
+00640: walk forward lean
+00640: forward lean
+00641: walk
+00641: walk forward make
+00641: walk forward
+00642: walk forward
+00643: left back foward walk turn
+00643: turn left forward walk
+00643: turn perform
+00644: around forward by walk turn
+00645: turn walk make back
+00645: turn left forward walk
+00645: turn
+00645: turn anticlockwis
+00646: walk turn back
+00646: left turn
+00647: walk u-turn
+00647: left turn
+00647: turn left forward walk
+00648: around turn back walk
+00648: left turn forward walk
+00648: goe forward anticlockwis back turn
+00648: goe around forward back turn
+00649: around turn walk
+00649: turn walk forward
+00650: jump
+00650: 
+00650: 
+00651: 
+00651: 
+00651: 
+00652: singl jumping-jack
+00652: perform jump
+00652: perform jump
+00653: jumping-jack perfom
+00653: do jump
+00653: jump
+00653: perform jump
+00653: jump
+00654: down back
+00654: salut
+00654: do
+00654: 
+00655: 
+00655: rise
+00655: reach
+00655: 
+00655: 
+00656: shake
+00656: shake
+00656: shake make
+00656: perform shake
+00656: shake
+00657: shake
+00657: shake
+00657: 
+00657: 
+00658: 
+00658: 
+00659: 
+00660: 
+00660: 
+00660: knock
+00661: do
+00661: perform
+00662: 
+00662: 
+00662: move
+00662: 
+00662: perform danc
+00663: flap
+00663: 
+00663: 
+00663: down move up
+00663: move
+00663: perform danc
+00663: do
+00664: walk perform
+00664: danc
+00664: left
+00665: danc
+00665: left perform move
+00666: walk forward
+00666: foreward move
+00666: walk forward
+00667: walk forward
+00667: walk forward
+00667: walk forward
+00667: walk
+00668: walk forward
+00668: goe forward
+00668: walk forward
+00669: walk forward
+00669: walk forward
+00669: walk forward
+00670: walk forward
+00671: walk forward
+00672: walk forward
+00672: walk
+00673: walk forward
+00673: walk forward
+00673: walk
+00673: walk
+00674: stand walk forward
+00674: 
+00675: walk forward
+00675: walk forward
+00676: play
+00676: play
+00676: play
+00677: play
+00678: walk forward
+00679: goe forward
+00679: walk
+00679: walk forward
+00680: walk forward
+00680: walk forward
+00680: walk
+00680: forward
+00680: forward
+00680: walk forward
+00681: stand walk
+00681: walk forward
+00681: walk forward
+00681: stand
+00681: walk forward
+00682: walk forward
+00683: walk forward
+00684: walk forward
+00684: walk forward
+00685: walk forward
+00685: walk
+00685: forward move
+00685: walk forward
+00686: halt walk
+00687: walk forward
+00687: walk forward
+00688: walk
+00689: walk forward
+00689: do forward
+00689: walk
+00690: left punch
+00690: punch
+00691: walk forward
+00692: walk
+00692: walk forward
+00692: walk
+00692: walk forward
+00693: walk
+00693: walk forward
+00694: walk forward
+00695: walk
+00695: walk forward
+00695: walk
+00695: walk forward
+00696: walk
+00697: limp walk
+00697: goe forward
+00697: walk forward
+00697: forward
+00697: walk
+00698: walk forward
+00699: walk forward
+00699: make forward
+00700: walk forward
+00700: walk forward
+00700: forward
+00701: left show
+00701: down move up
+00701: reach
+00701: left are
+00702: stand upward show
+00702: left
+00702: down
+00702: move
+00702: 
+00702: 
+00703: run forward
+00703: stand run forward
+00703: run
+00704: run
+00704: jog
+00705: run forward
+00706: run forward
+00706: run forward
+00706: run
+00707: run
+00707: run forward
+00707: forward jog
+00707: run
+00707: run
+00708: run
+00708: forward
+00709: 
+00709: run forward
+00709: run
+00710: 
+00710: run make forward
+00710: run forward
+00710: run
+00710: run
+00711: run perform
+00711: run forward
+00711: down jog
+00711: rest come perform stand run
+00711: run forward
+00712: swing make forward up
+00712: walk
+00712: swing walk bent
+00712: walk
+00713: turn perform clockwis
+00713: left u-turn make
+00714: goe around forward back turn
+00714: left forward around back walk turn
+00715: turn around forward walk
+00715: turn walk forward
+00715: forward make back walk turn
+00715: turn make
+00716: turn walk forward
+00717: turn walk forward
+00717: around forward back walk turn
+00718: u-turn move forward back walk perform
+00719: turn walk forward
+00719: around forward back walk turn
+00720: turn walk forward
+00720: turn walk forward
+00721: around forward back walk turn
+00721: around forward backward walk spin
+00721: turn forward back
+00722: turn
+00722: around forward back walk turn
+00723: turn walk forward back
+00724: left forward back walk turn
+00725: left turn
+00725: walk turn
+00726: walk turn
+00727: turn left forward walk
+00728: turn walk forward back
+00729: goe around forward back turn
+00729: left turn
+00730: came walk back
+00730: turn left forward walk
+00731: turn walk forward
+00732: turn left forward walk
+00733: turn make
+00734: left turn
+00734: walk perform left
+00734: left walk
+00735: walk left
+00735: goe left forward counterclockwis
+00735: turn walk forward left
+00736: turn left do
+00736: walk forward
+00736: make
+00737: turn counter-clockwis make
+00737: left perform walk
+00738: goe left make
+00738: left walk
+00738: turn
+00739: left turn
+00740: walk left
+00740: goe left counterclockwis
+00741: walk
+00741: goe left counterclockwis
+00741: left walk
+00742: walk forward
+00743: walk forward
+00743: goe forward
+00744: walk forward
+00744: walk
+00744: walk forward
+00744: walk forward
+00745: walk forward
+00745: walk
+00745: walk forward
+00745: walk forward
+00745: forward
+00745: walk forward
+00746: walk forward move
+00746: walk forward
+00746: walk forward be
+00746: walk forward
+00747: walk forward
+00748: walk forward
+00748: walk forward
+00749: walk forward
+00750: walk forward
+00750: walk forward
+00750: walk forward
+00751: walk forward
+00751: walk forward
+00752: walk forward
+00753: walk forward
+00754: goe forward
+00754: walk forward
+00754: walk forward
+00755: walk forward
+00756: walk forward
+00756: walk forward
+00756: walk
+00756: walk
+00756: walk forward
+00756: walk forward
+00757: walk forward
+00758: walk forward
+00758: walk forward
+00758: walk forward
+00758: forward
+00758: walk
+00758: foreward walk
+00758: walk
+00758: walk forward
+00758: walk ahead
+00758: walk forward
+00758: walk forward
+00758: walk
+00758: 
+00758: walk
+00759: walk
+00759: walk forward
+00759: make forward
+00759: walk forward
+00759: walk forward
+00759: walk forward
+00759: walk forward
+00759: walk forward
+00759: walk
+00760: turn
+00761: turn
+00761: walk clockwis
+00761: turn
+00761: walk
+00762: walk
+00763: turn
+00763: walk clockwis
+00764: walk clockwis
+00765: walk
+00766: walk turn
+00766: walk perform bend
+00767: walk
+00768: walk clockwis
+00769: walk forward
+00770: walk forward
+00770: walk forward
+00771: forward move
+00771: walk forward
+00772: walk forward
+00773: walk forward
+00773: walk forward
+00774: walk forward
+00774: walk forward
+00775: walk make forward
+00775: make forward
+00775: walk forward
+00775: forward
+00776: run
+00776: walk forward
+00776: walk
+00777: walk forward
+00778: walk
+00778: left walk
+00779: run forward
+00779: jog
+00779: jog
+00780: forward move jog
+00780: jog move up
+00780: jog
+00780: jog
+00781: forward jog bent
+00781: run forward
+00781: run
+00781: perform
+00782: run forward
+00782: rest come forward stand run
+00782: forward jog
+00782: run forward
+00783: walk do
+00783: run
+00784: run forward
+00785: jog
+00785: forward jogg
+00785: forward jog
+00785: perform
+00785: run
+00786: jog
+00787: forward jog
+00787: forward jog
+00787: forward jog
+00787: jog
+00788: run
+00788: walk
+00789: walk
+00789: left perform bend walk
+00790: left turn
+00790: down left turn walk
+00791: walk left
+00791: goe left counterclockwis
+00792: left walk
+00793: turn left forward walk
+00793: walk counterclockwis
+00794: left turn
+00794: left turn walk
+00794: walk left
+00795: walk anti-clockwis
+00795: left turn walk
+00795: turn left do
+00795: left turn walk
+00795: walk anticlockwis
+00796: left turn
+00796: left move
+00796: left walk
+00797: left walk
+00797: left turn walk
+00798: left turn
+00799: walk
+00799: 
+00799: walk
+00800: walk clockwis
+00800: walk perform
+00800: turn perfom
+00801: turn
+00802: walk clockwis
+00803: perform
+00803: turn walk forward
+00803: perform
+00803: walk perform
+00804: walk turn ahead
+00804: walk
+00805: turn walk forward
+00805: walk
+00806: turn
+00806: walk
+00807: around move walk
+00808: turn make
+00808: turn walk forward back
+00809: around forward back walk spin
+00809: swing around turn
+00810: left forward backward walk turn
+00811: turn walk forward back
+00811: walk forward back
+00812: walk turn
+00812: turn back
+00812: do left around forward backward walk turn
+00812: walk turn
+00812: forward move
+00812: turn around forward walk
+00812: walk turn back
+00812: turn walk forward
+00812: swing around forward backward
+00812: turn make
+00813: turn walk forward back
+00813: turn walk forward
+00814: walk back
+00814: turn walk forward perform
+00814: turn walk forward
+00814: around turn back walk
+00814: left turn
+00814: around turn back walk
+00814: swing around turn
+00815: turn walk forward
+00815: turn
+00815: around by back walk turn
+00816: goe around forward back turn
+00817: turn walk forward back
+00817: turn walk forward
+00818: u-turn do walk
+00818: walk turn
+00818: turn perform
+00819: around forward left walk turn
+00819: left turn perform
+00819: anticlockwis
+00820: turn left forward walk
+00821: around turn walk
+00821: turn walk forward
+00822: turn left forward walk
+00823: forward make back walk turn
+00823: come around forward walk turn
+00823: turn left forward walk
+00823: around left by back walk turn
+00824: walk turn
+00824: left turn
+00825: turn left forward walk
+00826: around turn walk
+00826: around forward back walk turn
+00826: turn left forward walk
+00827: turn left forward walk
+00828: turn left forward walk
+00828: turn walk forward
+00828: turn make forward
+00829: turn perform
+00829: turn around forward backward
+00830: walk turn back
+00831: turn make
+00832: around left forward walk turn
+00832: around forward left by back turn
+00832: do around left forward backward walk turn
+00833: turn make
+00833: around forward left back walk turn
+00833: turn around forward walk
+00833: turn left forward walk
+00833: turn
+00834: turn around forward walk
+00834: walk turn back
+00834: turn left forward walk
+00835: turn make
+00836: around forward left by walk turn
+00836: turn left forward walk
+00837: walk turn
+00837: around forward back walk turn
+00837: around turn
+00838: walk forward
+00839: walk forward
+00839: walk forward
+00840: walk forward
+00841: around along
+00841: goe forward
+00841: walk forward
+00841: walk
+00841: walk forward
+00842: walk forward
+00843: walk
+00843: walk forward
+00844: walk forward
+00844: walk forward
+00845: walk move
+00845: stand forward move
+00846: forward
+00846: walk forward
+00847: walk forward
+00848: walk forward
+00848: goe forward back
+00848: walk forward
+00848: walk forward up
+00848: walk forward
+00848: goe forward
+00849: walk
+00850: walk forward
+00851: walk forward
+00851: walk forward
+00851: have walk
+00851: walk
+00851: goe forward
+00852: walk
+00852: 
+00853: push forward be
+00853: forwar
+00853: walk forward
+00855: walk forward
+00855: make forward
+00856: down forward
+00856: walk forward
+00856: run
+00856: run
+00857: walk forward
+00858: left walk
+00858: left walk
+00858: walk left
+00859: around left move walk
+00860: walk counterclockwis
+00861: around left walk
+00861: left turn
+00861: counter walk clockwis
+00861: walk perform left
+00861: walk
+00861: left turn
+00862: counter walk clockwis
+00863: left
+00863: goe left
+00864: left turn
+00865: counter walk clockwis
+00866: left turn
+00866: left walk
+00866: left perform bend walk
+00867: goe left
+00867: walk left
+00868: turn walk forward
+00868: around turn walk
+00869: goe around forward backward turn
+00869: around spin walk
+00870: forward perform make walk turn
+00870: turn walk forward back
+00870: turn walk forward
+00870: forward make back walk turn
+00870: around turn back walk
+00871: turn walk forward
+00872: walk turn
+00872: around turn back walk
+00872: turn walk forward
+00872: turn
+00873: turn walk forward
+00874: around turn
+00874: turn walk forward
+00875: turn walk forward forwad
+00875: around turn back walk
+00875: around turn clockwis
+00876: turn by walk forward
+00877: turn walk forward backward
+00877: around turn walk
+00877: walk spine around
+00877: turn
+00877: turn back clockwis
+00877: around forward make by walk turn
+00878: around forward back walk turn
+00878: around left forward walk turn
+00879: turn around forward walk
+00879: turn walk forward back
+00880: turn left forward walk
+00880: left forward back walk turn
+00881: walk turn
+00881: around forward back walk turn
+00881: turn around forward
+00881: left turn
+00881: goe turn around forward
+00882: do
+00883: turn around forward
+00883: left turn walk
+00883: left turn
+00884: turn left forward walk
+00885: around forward back walk turn
+00885: goe around forward back turn
+00885: turn left forward walk
+00886: turn make
+00886: turn make
+00887: turn make
+00888: walk forward
+00888: walk
+00888: walk forward
+00889: walk forward
+00889: walk forward
+00889: walk forward
+00890: walk
+00890: goe forward
+00891: walk
+00891: left forward walk
+00892: walk forward
+00892: walk forward
+00892: walk
+00893: walk forward
+00894: walk forward
+00895: walk forward
+00895: walk forward
+00895: walk forward
+00896: walk forward
+00896: walk forward
+00897: walk forward
+00898: walk
+00898: walk forward
+00898: walk forward
+00899: walk forward
+00900: forward move
+00900: walk forward
+00900: walk forward
+00900: walk forward
+00901: walk forward
+00901: walk forward
+00902: walk forward
+00903: walk forward
+00903: walk forward
+00904: walk forward
+00904: walk forward
+00905: walk forward
+00905: forward
+00906: walk forward
+00907: walk forward
+00908: walk forward
+00908: walk forward
+00908: walk forward
+00908: walk
+00908: walk forward bend knee
+00909: walk forward
+00909: walk forward
+00909: walk
+00909: walk
+00910: walk forward
+00910: walk forward
+00911: walk forward up
+00911: rest come stand
+00911: walk
+00911: walk forwad
+00911: walk
+00912: perform
+00912: walk forward
+00912: run
+00913: stand run
+00913: run forward walk
+00913: walk
+00914: walk forward
+00914: walk forward
+00915: 
+00915: walk forward
+00915: walk forward
+00916: down walk
+00916: walk forward
+00916: walk forward
+00916: walk forward
+00916: forward
+00917: run forward
+00918: forward jogg
+00918: jog
+00919: jog
+00919: run forward
+00920: run forward
+00921: jog
+00921: run
+00922: run forward
+00922: run
+00923: run forward
+00924: run
+00924: jog
+00924: run
+00925: run
+00925: run
+00925: jog
+00926: run forward
+00926: run
+00926: run forward
+00926: run forward
+00927: walk clockwis
+00928: walk
+00928: walk
+00929: walk clockwis
+00929: turn walk forward perform
+00930: walk turn
+00930: walk clockwis
+00930: turn perfom
+00931: walk clockwis
+00932: walk
+00933: turn do
+00934: walk clockwis
+00935: turn
+00936: walk clockwis
+00936: walk clockwis
+00937: left turn
+00938: left walk
+00938: left walk
+00938: walk
+00939: walk
+00940: walk anti-clockwis
+00940: left turn walk
+00941: walk counterclockwis
+00941: left turn walk
+00942: left walk
+00943: left make forward
+00943: left walk
+00944: left turn walk
+00945: left turn
+00945: left turn walk
+00946: left walk
+00946: left turn
+00947: turn make
+00948: walk forward pivot back
+00948: goe around forward back turn
+00949: walk turn back
+00949: turn walk forward
+00950: turn make
+00951: turn walk perform back
+00952: turn walk forward back
+00952: turn by walk forward
+00952: turn walk forward back
+00953: turn walk forward
+00953: turn walk forward
+00954: walk forward back
+00954: goe around forward back turn
+00955: around forward by walk turn
+00956: u-turn move forward walk perform
+00956: turn around forward walk
+00956: turn walk forward
+00957: walk forward
+00958: walk forward
+00958: walk forward
+00958: walk forward
+00959: walk forward
+00960: walk
+00960: walk forward
+00961: goe forward
+00962: walk forward
+00962: goe forward
+00963: 
+00964: walk forward
+00964: walk forward
+00964: make forward
+00964: walk forward
+00965: walk ahead
+00965: walk forward
+00966: walk forward
+00966: forward
+00966: walk forward
+00966: walk
+00967: walk run
+00967: walk forward
+00967: forward
+00968: walk forward
+00968: 
+00969: walk forward
+00969: walk forward
+00970: walk forward
+00970: walk forward
+00971: walk forward
+00971: walk forward
+00972: goe forward
+00972: run forward walk
+00972: walk forward
+00973: forward move
+00973: walk
+00973: run forward
+00974: walk forward
+00975: swing walk forward
+00975: walk forward
+00976: around turn
+00976: walk forward
+00977: goe clockwis
+00978: turn
+00979: walk
+00979: walk turn
+00979: walk perform
+00979: walk clockwis
+00980: turn
+00980: walk
+00981: walk
+00981: walk turn
+00982: turn
+00983: walk clockwis
+00984: walk
+00984: walk
+00985: walk
+00985: walk
+00985: walk perform
+00986: left turn walk ahead
+00986: walk
+00987: left turn
+00988: walk left
+00988: left forward perform walk turn
+00988: left walk
+00989: around walk
+00989: turn walk perform left
+00990: walk
+00991: left turn
+00992: walk counterclockwis
+00992: turn left do walk
+00992: left walk
+00992: left turn
+00992: walk left
+00993: turn left forward walk
+00993: walk anticlockwis
+00994: left turn
+00994: left turn
+00995: left walk
+00996: turn by walk forward
+00997: left forward around back walk turn
+00998: around forward back walk turn
+00998: around forward back walk spin
+00999: turn walk forward
+01000: turn walk forward back
+01000: turn back clockwis
+01001: do around forward stand turn
+01001: turn do
+01001: turn walk perfom back
+01002: goe around forward back turn
+01002: walk turn forward
+01002: turn around forward
+01003: turn
+01003: swing around forward back
+01004: walk turn back
+01004: around forward back walk turn
+01005: turn around forward walk
+01006: u-turn do left forward back walk
+01006: stand foward around turn
+01007: turn perform
+01007: do around left forward backward walk turn
+01007: left forward back walk turn
+01008: turn left forward walk
+01009: turn around forward walk
+01010: turn perform
+01010: turn left perform
+01011: move forward along backward turn
+01011: do around left forward backward walk turn
+01011: walk forward back
+01012: turn left forward walk
+01013: goe around forward back turn
+01014: goe around forward back turn
+01014: turn
+01015: forward
+01015: make forward
+01016: left
+01016: push back get
+01016: left
+01017: push sideway by
+01017: sideway left back walk
+01017: left
+01018: push left
+01018: shuffl left move back
+01019: stand
+01019: push left
+01019: sidestep do left
+01019: push left
+01020: left
+01020: walk left back jump
+01021: receiv push
+01021: walk back
+01021: do
+01022: left forward move back
+01022: left
+01023: left
+01023: push left perform get
+01023: left backward
+01023: sideward
+01024: back
+01024: left
+01025: push left
+01025: push left backward get stand
+01025: 
+01025: push
+01026: walk forward
+01026: walk
+01027: walk forward
+01027: walk forward
+01028: stand walk forward
+01028: goe forward
+01028: walk forward
+01028: walk
+01029: walk forward
+01030: walk forward
+01031: walk forward
+01032: walk forward
+01033: walk forward
+01034: forward move
+01034: walk forward
+01034: walk forward
+01034: walk forward
+01034: walk forward
+01035: make forward
+01035: walk forward
+01036: walk
+01037: walk forward
+01037: goe forward
+01037: perform
+01037: walk
+01037: walk forward
+01037: walk forward
+01038: walk
+01038: walk forward
+01039: walk forward
+01040: walk forward
+01040: goe forward
+01040: walk
+01041: walk
+01042: walk
+01042: walk forward
+01042: walk forward
+01043: walk forward
+01043: walk forward
+01043: goe forward
+01043: walk
+01044: walk forward
+01044: walk forward
+01045: walk forward
+01045: walk forward
+01045: put left move walk
+01046: walk ahead
+01046: walk forward
+01046: walk forward
+01047: walk forward
+01047: walk forward
+01047: walk
+01047: walk forward
+01047: walk
+01047: walk
+01047: stand walk forward
+01047: walk forward
+01047: goe forward
+01048: walk forward
+01049: left
+01049: walk forward
+01049: walk forward
+01049: walk forward
+01049: walk forward
+01050: walk forward
+01050: walk forward
+01050: perfom
+01050: walk
+01051: walk forward
+01051: walk
+01052: walk forward
+01053: walk
+01054: walk forward
+01055: 
+01055: walk do forward
+01055: jog
+01055: forward jogg
+01055: jog
+01055: jog
+01055: froward jog
+01056: run forward
+01056: rest come run
+01056: forward jog
+01056: jog
+01057: jog
+01057: forward jog
+01058: forward jog
+01058: run forward
+01059: forward jog
+01059: jog
+01059: run forward
+01060: walk bend
+01060: walk forward perform
+01061: walk
+01062: turn
+01063: turn
+01064: walk
+01065: turn
+01066: walk clockwis
+01067: walk clockwis
+01068: turn
+01068: walk
+01069: turn walk forward
+01069: walk bend
+01069: walk
+01069: turn
+01069: turn
+01070: left turn
+01070: turn left forward walk
+01070: left walk
+01070: left
+01071: turn left forward walk
+01071: walk turn left
+01072: turn left forward walk
+01072: left turn walk
+01073: walk counterclockwis
+01073: left walk
+01073: left turn walk
+01074: left turn
+01075: left turn
+01076: turn left forward walk
+01076: goe forward
+01076: left walk
+01076: left turn
+01076: left walk
+01077: counter walk clockwis
+01078: walk left
+01078: left walk
+01078: walk perform left
+01079: left turn walk
+01079: left perform
+01080: turn make forward
+01080: goe around forward back clockwis turn
+01080: walk turn
+01080: around spin walk
+01080: goe around back walk turn
+01080: turn
+01081: turn walk forward
+01081: turn walk forward
+01082: spin perform
+01083: turn do
+01083: turn walk forward back
+01084: walk turn
+01084: around spin walk
+01085: turn make
+01086: turn walk forward
+01087: goe around forward back turn
+01087: turn walk forward back
+01088: turn walk forward back
+01088: turn by walk forward
+01089: turn walk make forward
+01089: perform turn
+01089: turn walk forward
+01089: swing around turn clockwis
+01090: u-turn do left walk
+01091: left turn
+01091: turn left forward walk
+01091: around spin
+01092: around forward back walk spin
+01093: around forward left by walk turn
+01093: left turn walk
+01093: turn left forward walk
+01094: around turn walk
+01094: goe around forward back turn
+01094: turn left forward walk
+01095: u-turn do left walk
+01096: turn left forward walk
+01096: left turn back walk
+01097: turn left forward walk
+01097: walk turn
+01097: up left forward make walk turn
+01098: left make
+01098: left
+01098: left perform
+01099: push left get stand perform
+01100: stand by move
+01100: 
+01100: make back
+01101: push left get by
+01102: move
+01102: push left back get stand
+01102: stand got make
+01102: 
+01102: left back
+01103: left lurch
+01103: push sideway left by
+01103: stand push get
+01104: 
+01105: perform
+01105: get jump
+01105: 
+01105: left back
+01105: back
+01105: sidestep make back
+01105: sideway back walk
+01106: push make
+01106: walk back
+01107: push left back get perform
+01108: run
+01108: forward jog
+01108: run
+01109: jog
+01109: walk do forward
+01109: run forward
+01109: walk
+01110: forward jog
+01110: run forward walk
+01110: forward jog
+01110: run
+01110: walk forward
+01111: forward
+01111: forward jog
+01111: goe forward
+01112: perform
+01113: run forward get
+01113: jogg
+01113: walk
+01114: jog
+01114: forward jogg
+01114: run forward
+01114: give up
+01115: push left-hand
+01116: push left be
+01116: push left
+01117: push left
+01117: push left make get
+01117: push be
+01117: sidestep make
+01117: push left
+01117: left
+01117: by sidestep make
+01117: push left
+01117: left
+01117: left
+01118: left
+01118: left
+01118: left
+01118: push left
+01118: left
+01119: push back
+01119: receiv push backward by
+01119: backward
+01120: push
+01120: left make get
+01120: left
+01121: push
+01122: push left
+01123: left perform
+01123: by left
+01123: left get
+01124: push get
+01125: goe sideward left back
+01125: sideward left
+01125: sidestep push left stood back get stand
+01125: goe push left back get
+01126: sidestep left
+01126: sidestep make left
+01126: push left
+01127: left make
+01128: left
+01128: left
+01128: left
+01128: sidestep left
+01129: push be
+01130: left
+01130: left
+01130: push sidestep left get
+01130: sidestep make left
+01131: left
+01131: left make
+01132: sidestep perform left
+01133: left make
+01134: left make
+01134: stand push
+01134: left perform
+01135: walk left
+01135: left turn
+01135: left turn
+01135: left walk
+01135: walk anticlockwis
+01136: counter walk clockwis
+01137: counter walk clockwis
+01138: left turn
+01138: walk perform left
+01139: left walk
+01139: goe left forward conterclockwis
+01139: left perform
+01139: left walk
+01139: left turn
+01140: left turn
+01140: turn walk perform left
+01140: turn left perfom
+01140: left turn
+01141: left bend walk
+01141: turn walk perform left
+01142: left turn
+01142: left turn
+01143: left turn walk
+01143: walk left
+01144: counter walk clockwis
+01144: left turn walk
+01144: left walk
+01145: walk clockwis
+01146: walk clockwis
+01147: turn
+01147: walk clockwis
+01147: around turn
+01148: turn
+01149: walk rightward
+01150: turn
+01151: turn
+01152: turn
+01153: walk bend clockwis
+01153: walk perform
+01154: walk turn
+01154: walk clockwis
+01154: walk
+01155: around forward left by walk turn
+01156: around left back walk turn
+01156: around turn forward walk
+01156: around turn walk
+01156: goe turn around forward
+01157: turn make
+01157: left turn walk
+01157: turn around forward
+01158: turn walk forward back
+01159: turn make
+01159: left turn
+01159: turn around forward
+01160: perform forward back walk turn
+01161: u-turn do left walk
+01161: turn make
+01162: around turn walk
+01162: do around left forward backward walk turn
+01162: left turn
+01163: left forward back walk turn
+01163: left turn back walk
+01163: around turn back walk
+01163: around forward left by walk turn
+01164: around forward backward spinn walk
+01164: turn left forward walk
+01164: by around turn walk
+01165: turn perform
+01165: left turn
+01166: turn around perform
+01166: turn walk forward
+01166: around turn back walk
+01167: around forward back walk turn
+01167: turn walk forward
+01168: turn walk forward
+01169: turn make
+01169: u-turn do walk
+01169: turn
+01170: turn
+01170: by around turn walk
+01171: around turn walk
+01172: walk u-turn forward make
+01172: turn walk forward
+01173: turn walk forward make
+01173: turn
+01173: turn walk forward
+01174: turn walk forward back
+01175: walk ahead
+01175: walk forward
+01176: forward move
+01176: walk forward
+01176: walk
+01176: walk
+01177: walk forward
+01177: walk
+01178: walk forward
+01179: walk forward
+01179: forward wlak
+01180: walk forward
+01181: walk forward
+01181: walk forwad
+01181: walk
+01182: walk
+01182: walk forward
+01183: walk forward
+01183: walk forward
+01183: forward
+01184: walk
+01184: walk forward
+01185: goe forward
+01186: walk forward
+01187: walk
+01187: walk forward
+01187: walk forward
+01188: walk forward
+01188: forward move
+01189: walk forward
+01189: walk
+01189: walk forward
+01190: walk forward
+01190: goe forward
+01190: forward
+01191: walk forward
+01191: walk forward
+01191: left walk forwad
+01192: walk
+01192: walk
+01192: walk forward
+01192: walk forward
+01193: walk forward
+01193: walk forward
+01194: walk forward
+01194: walk
+01194: goe forward
+01194: forward
+01195: walk forward
+01196: walk forward
+01196: walk forward
+01197: walk
+01197: foward perform
+01197: walk forward
+01198: walk forward
+01198: walk forward
+01198: walk forward
+01199: walk forward
+01199: walk
+01200: goe forward
+01200: walk forward
+01200: walk
+01201: walk forward
+01202: walk
+01202: walk forward
+01202: walk forward
+01203: walk forward
+01204: walk forward
+01204: walk
+01205: waltz danc
+01205: danc
+01205: waltz
+01206: walk
+01206: 
+01206: danc
+01206: danc
+01207: waltz danc
+01207: walk back
+01208: danc
+01208: 
+01208: make waltz danc
+01209: waltz danc
+01209: waltz danc
+01209: left perfom backward forward
+01210: waltz danc
+01210: waltz danc
+01210: waltz danc
+01210: danc
+01210: danc
+01211: perform danc
+01211: stepp waltz
+01212: danc
+01212: waltz
+01213: waltz
+01213: danc
+01214: danc
+01214: waltz danc
+01214: perfom backward forward
+01215: perform danc
+01215: danc
+01215: danc
+01216: waltz danc
+01216: waltz danc
+01216: do danc
+01216: danc
+01216: danc
+01217: perfom danc
+01217: danc
+01218: walk
+01218: waltz
+01218: walk
+01218: danc do be
+01218: danc
+01218: perform
+01218: waltz
+01219: waltz
+01219: waltz danc
+01219: 
+01219: danc
+01220: danc
+01220: perform waltz danc
+01220: 
+01221: perform danc
+01222: danc
+01222: danc
+01222: danc
+01222: danc
+01222: perform
+01222: danc
+01223: left danc
+01223: perform danc
+01223: perform
+01223: danc
+01224: perform danc
+01224: danc
+01224: danc
+01225: perform danc
+01226: do move
+01226: have move
+01226: 
+01227: danc
+01227: perform danc
+01227: danc
+01227: danc
+01228: perform danc
+01228: danc
+01228: make
+01228: 
+01228: perform danc
+01228: danc
+01228: danc
+01228: have make
+01228: 
+01229: danc
+01229: waltz
+01229: perform danc
+01229: danc
+01229: danc
+01229: put around danc
+01230: danc
+01230: danc
+01231: perform danc
+01232: danc
+01232: perform danc
+01232: 
+01233: danc
+01233: danc
+01233: 
+01234: danc
+01234: danc
+01235: danc
+01235: danc
+01236: kick left move kickbox
+01236: left kick
+01236: left kick
+01236: make kick
+01237: kick
+01237: left perform kick
+01237: left perform forward kick
+01237: perform kick
+01237: left forward make low protect kick
+01237: left perform kick
+01237: left hit
+01238: perform
+01239: kick box
+01239: kick
+01240: left kick
+01240: low left perform kick
+01240: kick up
+01240: perform kick
+01240: left kick
+01240: left kick
+01241: left perform kick
+01242: left perform kick
+01243: left kick
+01243: up push left get perform kick
+01243: left kick up
+01244: backward bend
+01245: punch
+01245: back lean up
+01245: punch
+01245: attack box play
+01246: 
+01246: perform box
+01246: down pose
+01246: 
+01246: 
+01246: left protect
+01246: hit
+01247: left bend
+01247: down left
+01248: backward bend
+01249: left up
+01249: down backward
+01249: hit
+01250: punch box
+01250: hit
+01250: punch
+01250: box back up be
+01250: down
+01250: attack block stand risen pose
+01250: by punch lean box
+01251: left punch box
+01251: left punch
+01251: left punch stand borh perform
+01251: left
+01252: forward
+01252: slap left perform
+01252: perform
+01252: 
+01253: 
+01253: 
+01253: forward
+01253: 
+01254: perform
+01255: 
+01255: perform backward forward get
+01255: rigth
+01256: perform
+01256: 
+01256: 
+01256: 
+01257: left
+01257: slap perform
+01257: left
+01258: left
+01259: left
+01259: left perform hit
+01259: left
+01259: left
+01260: left
+01260: left
+01260: 
+01260: left
+01261: left do move
+01261: 
+01261: left
+01261: left
+01261: 
+01262: bow
+01262: bow
+01262: bow
+01263: bow
+01263: bow
+01263: down back bend
+01263: bow
+01264: bow
+01264: bow
+01264: bow
+01265: bow
+01265: bow
+01265: down bow
+01265: bow
+01266: make bow
+01266: bow
+01267: forward lean
+01267: down bow
+01267: bow
+01267: bow
+01267: bow
+01268: bow
+01268: perform bow
+01268: bow
+01268: perform bow
+01268: down bow
+01269: bow
+01269: make bow
+01269: bow
+01269: bow
+01270: bow
+01270: bow
+01270: bow
+01271: bow
+01271: down bow
+01271: bow
+01271: bow
+01271: bow
+01271: forward bend
+01272: perform kick
+01273: perform kick
+01274: perform kick judo
+01274: kick
+01275: kick
+01275: perform kick
+01276: perform kick
+01276: kick
+01277: forward kick
+01277: left sidekick
+01277: left kick
+01277: left perfom kick
+01277: sidekick give
+01278: forward kick
+01278: left make kick
+01278: left kick
+01278: left forward kick
+01278: left hit
+01279: left perform sidekick
+01279: left perform kick
+01280: left kick
+01280: move up left sidekick perform
+01280: left kick
+01281: left perform kick
+01282: low perform kick
+01283: perform kick
+01283: kick
+01284: perform kick
+01284: low perform kick
+01285: knee kick
+01285: kick
+01285: low perform kick
+01285: perform forward kick
+01286: perform kick
+01286: kick
+01286: left make low turn kick
+01286: sidekick give
+01287: low left perform sidekick
+01287: left kick
+01287: left kick
+01288: left move kick
+01288: up left low get perform kick
+01288: held perform kick
+01288: left kick
+01288: kick
+01289: low left perform sidekick
+01289: left kick
+01290: low left perform kick
+01290: left kick
+01290: kick
+01291: left perform kick
+01291: give kick
+01291: low left do kick
+01292: perform
+01292: singl perform
+01293: perform
+01293: make squad
+01293: perform
+01294: perform
+01294: singl perform
+01295: stand down up
+01295: exercis squad
+01295: 
+01296: make
+01296: exercis squad
+01297: do box
+01297: hit
+01297: box
+01298: perform punch
+01298: box
+01298: punch
+01298: perform punch
+01298: by make forward box
+01298: do punch
+01298: punch
+01298: punch
+01298: perform
+01298: punch
+01299: perform punch
+01300: perform punch
+01300: left forward
+01300: forward punch rigth stand perform
+01300: punch
+01300: punch forward
+01300: perform punch
+01300: box
+01301: hit
+01301: perform forward punch
+01301: perform punch
+01301: punch
+01301: punch
+01302: left box
+01302: left punch perform
+01302: left box
+01302: left forward punch
+01303: left punch
+01303: left punch
+01303: left box
+01304: push left
+01304: left punch
+01305: left-hand box
+01305: left punch
+01305: goe left punch box perform
+01305: left hit
+01305: left punch up perform
+01305: left box
+01305: left punch
+01306: down
+01306: 
+01306: set back
+01306: 
+01306: 
+01307: 
+01308: put down
+01308: 
+01308: 
+01309: 
+01309: left
+01309: stand down left
+01310: 
+01310: 
+01311: left
+01312: left back
+01312: left
+01312: left
+01312: rise left
+01312: left
+01313: left
+01313: left
+01313: left
+01313: left
+01313: 
+01313: left
+01314: left
+01315: left touch
+01315: left
+01315: left
+01316: upward jump
+01316: up jump
+01317: jump
+01317: stand up jump
+01317: jump
+01318: perform
+01318: off jump
+01318: perform jump
+01318: perform jump
+01318: jump
+01319: jump
+01319: upward jump
+01319: upward jump
+01319: perform jump
+01319: jump
+01319: perform jump
+01319: jump
+01320: do jump
+01320: down are jump
+01320: knee bend up jump
+01320: upward jump
+01321: forward jump
+01321: perform
+01321: forward jump
+01322: forward jump
+01322: forward jump
+01322: forward jump
+01322: perform
+01322: jump
+01322: forward jump
+01322: forward jump
+01323: forward jump
+01323: forward jump
+01323: foreward perform jump
+01323: forward jump
+01324: make forward jump
+01324: forward jump
+01325: jump
+01325: forward jump
+01325: forward jump
+01325: forward
+01326: backward jump
+01326: backward
+01326: backward jump
+01327: backward jump
+01327: backward jump
+01327: perform backward move jump
+01328: backward jump
+01328: back jump
+01328: backward jump
+01328: perform back
+01329: backward jump
+01329: backward jump
+01329: backward jump
+01329: backward jump
+01330: backward jump
+01330: backward
+01330: perform back
+01330: backward jump
+01330: backward
+01330: backward jump
+01331: left make jump
+01331: left
+01332: left jump
+01332: left perfom jump
+01333: left jump
+01333: left perform jump
+01333: left jump
+01334: land left off jump
+01334: left jump
+01334: left jump
+01334: left jump
+01334: left jump
+01335: left jump
+01335: left
+01335: left jump
+01336: jump
+01337: jump
+01337: jump
+01337: do sidejump
+01337: perform jump
+01337: perform jump
+01338: make jump
+01338: perform jump
+01338: jump
+01339: jump
+01339: perform
+01339: jump
+01339: jump
+01339: 
+01339: left jump
+01340: 
+01340: jump
+01340: jump
+01340: 
+01341: play
+01341: make play
+01342: perform
+01342: put
+01342: left perform
+01342: perform grab hit
+01342: play
+01342: perform play
+01342: play
+01343: play
+01344: play
+01344: play
+01345: play
+01345: 
+01345: swing left perform hit
+01345: play
+01345: perform
+01346: swing play
+01346: play
+01346: play
+01346: swing perform do hit
+01346: play
+01346: swing perform
+01347: play
+01348: swing
+01348: play
+01348: left perform hit
+01349: play
+01349: play
+01350: swing perform
+01351: swing perform
+01351: drive perform
+01351: play
+01352: 
+01352: 
+01353: 
+01353: 
+01353: 
+01354: make
+01354: 
+01354: 
+01355: perform punch
+01356: make
+01356: 
+01357: left
+01358: left wind up
+01358: left
+01358: left
+01359: swing down left
+01359: left
+01359: left
+01359: 
+01359: left
+01360: perform punch
+01360: 
+01360: 
+01361: left make
+01362: hit
+01363: whip
+01363: perform
+01363: 
+01363: slap move
+01364: hit
+01364: slap perform
+01364: hit
+01364: hit
+01365: 
+01365: perform hit
+01366: do
+01367: 
+01367: left play
+01367: left move
+01367: left
+01368: left
+01368: left play
+01368: left
+01369: do
+01369: slap left
+01370: left hit
+01370: swing
+01370: perform
+01370: 
+01371: perform
+01371: 
+01372: 
+01372: wipe
+01373: 
+01373: wipe
+01374: 
+01374: 
+01375: stand
+01375: 
+01376: 
+01376: 
+01377: 
+01377: 
+01377: 
+01378: 
+01378: 
+01378: 
+01379: 
+01379: 
+01379: 
+01380: 
+01380: 
+01380: wipe
+01380: 
+01381: 
+01381: 
+01382: 
+01382: 
+01383: 
+01383: perform
+01383: 
+01384: 
+01384: 
+01384: rise
+01384: 
+01384: 
+01385: do
+01386: left
+01386: left perform
+01387: left
+01388: left
+01388: left
+01388: 
+01389: 
+01389: wipe
+01390: left
+01390: left
+01390: left
+01391: 
+01392: left
+01393: left
+01393: stand left
+01393: perform
+01393: left
+01393: left
+01394: 
+01394: left
+01394: left
+01394: 
+01395: left
+01395: left
+01395: left
+01396: left
+01396: left
+01397: left
+01397: left
+01397: left
+01398: left forward
+01398: left
+01399: left
+01400: left
+01400: wipe
+01400: left
+01401: left
+01401: left
+01401: left
+01401: left
+01402: 
+01403: 
+01404: 
+01405: 
+01405: 
+01405: 
+01406: 
+01407: 
+01407: 
+01407: 
+01408: 
+01408: stand
+01409: 
+01409: 
+01409: 
+01410: 
+01410: 
+01410: 
+01410: 
+01411: 
+01411: 
+01411: 
+01411: 
+01411: 
+01412: 
+01413: 
+01413: 
+01413: 
+01413: 
+01414: 
+01414: 
+01414: 
+01415: 
+01415: 
+01415: 
+01415: 
+01415: perform
+01416: 
+01416: 
+01416: 
+01416: 
+01417: bounc down punch bent
+01417: play
+01418: play
+01418: perform play
+01419: play
+01419: play
+01419: perform
+01420: play
+01420: perform
+01421: play
+01421: down move up
+01421: play
+01422: 
+01422: play
+01422: play
+01422: play
+01422: 
+01423: play
+01423: play
+01423: left along touch
+01424: play
+01424: perform
+01424: play
+01424: play
+01425: play
+01425: play
+01425: play
+01425: play
+01426: play
+01426: 
+01426: stand move play
+01427: play
+01427: play
+01427: play
+01427: play
+01427: play
+01428: play
+01428: play
+01428: play
+01428: make play
+01428: play
+01428: 
+01429: play
+01429: play
+01429: left up
+01429: play
+01430: play
+01430: left play
+01431: play
+01431: play
+01431: play
+01431: play
+01431: knock
+01432: left play
+01432: play
+01432: play
+01433: down left move up
+01434: play
+01434: left along touch
+01434: left up
+01435: play
+01435: play
+01436: left do move
+01436: play
+01436: left play
+01437: up drop left bounc bent down
+01437: left-hand play
+01437: left touch
+01437: make play
+01438: make play
+01438: play
+01439: play
+01439: left play
+01440: play
+01440: play
+01440: play
+01440: left perform up
+01440: do
+01440: perform
+01440: make play
+01441: left play be
+01442: play
+01442: left along touch
+01442: play
+01442: perform left-hand play
+01442: left knock
+01443: play
+01443: left play
+01444: play
+01444: play
+01444: play
+01444: left play
+01445: left
+01445: left play
+01445: left play
+01446: play
+01446: play
+01446: left play
+01447: play
+01448: play
+01448: play
+01448: left knock
+01449: play
+01449: left
+01449: left
+01449: left play
+01449: play
+01450: play
+01450: play
+01451: left bent move up
+01451: perform
+01451: move play
+01451: play
+01451: make play
+01451: play
+01452: play
+01452: play
+01453: play
+01453: play
+01454: singl play
+01454: play
+01454: play
+01454: play
+01455: play
+01455: play
+01456: play
+01457: play
+01457: perform play
+01458: play
+01458: play
+01459: play
+01459: play
+01459: play be
+01459: play
+01460: play
+01460: play
+01460: play
+01460: 
+01461: play
+01462: play
+01462: perform
+01462: play
+01462: left play
+01462: wipe
+01463: play
+01464: play
+01464: play
+01464: play
+01465: left move
+01465: wipe
+01465: left play
+01466: play
+01466: play
+01466: left play
+01467: make play
+01467: 
+01468: play
+01469: left
+01469: left play
+01470: play
+01470: wipe left
+01470: play
+01471: left toward move
+01471: play
+01472: play
+01472: 
+01472: wipe left
+01472: left play
+01473: play
+01473: left play
+01474: left move
+01474: stand perform play
+01474: play
+01475: play
+01475: left play
+01475: left-hand play
+01476: play
+01476: left play
+01477: left toward move
+01477: left play
+01478: play
+01478: left play
+01479: play
+01479: play
+01479: left play
+01479: perform play
+01479: play
+01480: left move
+01480: hit
+01480: wipe
+01480: make
+01481: wipe make
+01481: wipe perform
+01482: 
+01483: wipe
+01483: wipe
+01483: wipe perform
+01483: perform
+01484: make
+01484: wipe
+01485: perform
+01485: perform
+01485: wipe
+01486: wipe make
+01487: perform
+01488: 
+01488: wipe
+01488: perform
+01488: wipe
+01489: wipe
+01489: do
+01489: move clockwis
+01489: wipe
+01489: wipe
+01489: 
+01490: perform
+01490: wipe
+01491: 
+01491: wipe
+01492: wipe
+01492: 
+01492: perform
+01492: wipe
+01492: wipe
+01492: 
+01492: move
+01492: wipe
+01493: 
+01494: wipe do
+01494: wipe
+01494: 
+01495: stand move
+01495: wipe
+01495: wipe left
+01495: left move
+01495: wipe
+01495: left do
+01496: 
+01496: wipe left
+01497: 
+01497: wipe left
+01497: turn
+01497: wipe left
+01497: wipe left
+01497: left move
+01498: move counterclockwis
+01498: wipe left
+01499: left move
+01500: left move
+01500: left perform
+01500: wipe
+01501: 
+01501: left
+01502: left perform
+01502: left
+01502: wipe left
+01503: wipe
+01504: wipe left
+01504: left do
+01504: stand left move bowl
+01504: wipe left
+01504: left move
+01505: left perform
+01505: wipe left
+01505: wipe left
+01506: move
+01506: wipe left
+01506: strir
+01506: left move
+01507: wipe left make
+01508: wipe counterclockwis
+01508: wipe left
+01509: counter left move clockwis
+01509: wipe
+01509: wipe
+01509: wipe
+01510: wipe left perform
+01510: perform
+01510: wipe left
+01510: wipe left
+01510: left move
+01511: wipe
+01511: 
+01512: wipe
+01513: 
+01513: move
+01513: wipe
+01514: wipe perform
+01514: wipe make reach
+01514: wipe left
+01515: wipe do move
+01515: move
+01515: wipe
+01516: wipe
+01516: wipe
+01517: wipe
+01517: wipe
+01517: wip
+01518: wipe make
+01519: wipe perform
+01520: wipe clockwis
+01521: wipe left do stand
+01521: wipe left
+01522: left move
+01522: wipe left
+01523: wipe left
+01523: wipe
+01524: wipe counterclockwis
+01525: wipe left make singl
+01526: wipe
+01526: perform
+01526: wipe left
+01526: move
+01527: wipe left
+01528: wipe perform
+01528: wipe make
+01528: wipe left
+01529: wipe left make
+01529: left move counterclockwis
+01529: wipe left
+01530: wipe
+01530: wipe left
+01530: wipe left
+01531: wipe perform
+01531: wipe left perform stand
+01532: wipe left
+01532: work
+01532: wipe
+01532: wipe left
+01532: left
+01533: move
+01533: wipe
+01533: wipe
+01533: wipe left
+01534: by left make
+01534: wipe
+01534: left
+01535: 
+01535: wipe left
+01535: wipe left
+01536: wipe left do stand
+01537: walk
+01537: walk counterclockwis
+01537: left walk
+01538: counter-clockwis walk
+01538: walk counterclockwis
+01538: walk
+01538: counter-clockwis walk
+01538: left walk
+01539: walk
+01539: walk
+01539: walk turn
+01539: walk
+01539: walk clockwis
+01540: walk clockwis
+01540: perform do
+01540: walk
+01540: walk
+01540: around walk
+01542: walk forward
+01543: walk forward
+01543: walk forward
+01545: goe forward
+01545: walk forward
+01546: down climb walk
+01548: walk forward
+01548: walk up
+01548: walk forward
+01548: walk forward
+01549: walk forward upward
+01549: walk forward
+01549: walk forward
+01550: climb
+01550: climb
+01555: walk forward upward
+01555: goe forward
+01556: walk
+01556: walk be
+01556: move up
+01556: walk forward
+01557: walk forward
+01557: forward
+01557: down walk
+01560: walk forward
+01560: walk forward
+01561: walk forward
+01562: left walk
+01562: down walk
+01562: down walk
+01563: down walk forward
+01565: down walk
+01566: goe by
+01566: forward
+01567: down walk
+01567: down walk reach
+01567: down walk
+01567: down walk reach
+01567: down walk
+01567: down walk
+01567: walk
+01569: down walk
+01570: down walk
+01571: walk forward
+01572: walk forward
+01573: walk
+01575: walk
+01575: walk
+01575: walk forward
+01576: walk
+01581: jump
+01581: 
+01581: goe down
+01581: down
+01581: down
+01581: goe walk back
+01582: walk forward
+01582: 
+01582: 
+01582: 
+01583: stand
+01583: stand
+01583: t-shape stand
+01583: stand
+01583: stand
+01583: stand
+01583: stand
+01583: stand
+01583: stand
+01584: walk forward
+01585: walk forward
+01586: walk forward
+01587: goe forward
+01587: walk
+01588: walk forward
+01588: down walk
+01589: walk forward
+01589: walk forward
+01589: down walk
+01590: walk forward
+01590: walk downward
+01590: walk
+01590: walk downward
+01590: walk forward
+01590: down walk reach
+01590: walk forward
+01590: walk forward
+01590: down walk
+01590: 
+01590: walk forward be
+01590: walk
+01591: down walk
+01591: walk forward
+01591: walk forward
+01591: walk forward
+01591: down walk
+01591: walk
+01592: walk forward
+01592: goe by left
+01592: 
+01593: down walk
+01594: down walk forward
+01594: goe
+01595: down walk set
+01595: down walk
+01595: down walk forward
+01595: go down
+01596: walk
+01596: down walk
+01596: down walk forward
+01597: 
+01597: goe forward
+01597: down walk
+01597: down walk
+01597: down walk
+01598: walk forward
+01598: walk up
+01598: walk
+01600: walk forward
+01601: goe forward
+01602: walk forward
+01602: walk forward
+01602: walk forward
+01603: 
+01603: climb
+01603: goe
+01603: walk up
+01604: walk forward upward
+01604: climb
+01604: walk up
+01605: walk forward
+01605: walk up
+01605: walk forward
+01605: walk up
+01605: walk forward
+01606: walk
+01606: walk forward
+01606: go up
+01606: climb
+01606: walk forward up
+01606: walk up
+01606: walk up
+01606: walk up
+01606: walk up
+01607: walk up
+01607: climb
+01609: climb
+01609: goe
+01609: climb forward up
+01609: walk forward up
+01609: walk up
+01611: climb
+01611: walk up
+01613: walk
+01613: walk
+01613: walk
+01613: walk
+01614: 
+01614: walk
+01614: put forward
+01614: forward move
+01614: 
+01615: walk
+01617: walk
+01617: walk
+01617: walk
+01617: walk
+01617: walk
+01617: walk
+01618: forward
+01618: walk
+01618: go forward
+01619: walk
+01619: walk
+01620: walk
+01621: walk
+01621: along move
+01622: 
+01622: walk
+01622: walk
+01622: 
+01622: walk
+01622: walk
+01623: walk
+01624: walk forward
+01624: walk
+01624: walk
+01624: go
+01624: walk
+01624: up
+01624: low walk
+01624: 
+01624: walk
+01624: goe walk forward
+01624: walk
+01625: walk
+01626: walk
+01626: walk are
+01626: walk
+01626: walk
+01626: 
+01627: 
+01627: 
+01627: walk
+01627: walk
+01628: walk
+01628: walk
+01629: walk
+01629: walk forward get
+01629: walk
+01629: 
+01630: walk
+01630: walk
+01631: 
+01632: walk
+01633: walk forward
+01634: walk
+01634: perform forward
+01634: walk forward
+01635: walk forward
+01635: forward
+01635: walk
+01636: walk forward
+01636: walk forward
+01637: walk forward
+01637: goe left forward
+01637: walk forward
+01637: walk forward
+01638: down walk forward
+01638: down walk
+01638: t-shape walk stand up
+01638: walk
+01639: make pose
+01639: 
+01640: forward
+01640: perform forward
+01640: down up
+01640: stand
+01641: stand
+01641: make
+01641: stand
+01641: 
+01641: stand
+01641: stand
+01642: walk forward
+01643: walk forward
+01643: walk forward
+01643: walk forward
+01644: walk forward
+01645: walk forward
+01646: walk forward
+01646: walk forward
+01646: walk forward
+01646: walk forward
+01647: walk forward
+01647: left forward walk
+01647: walk forward
+01647: forward
+01648: walk forward
+01648: walk forward
+01648: walk forward
+01649: stand walk forward
+01649: down walk
+01650: stand
+01650: stand
+01651: walk forward
+01651: walk forward
+01651: walk
+01652: walk forward
+01653: walk forward
+01653: walk forward
+01654: walk
+01655: stand sideway
+01655: stand sideway be
+01655: 
+01655: 
+01655: 
+01655: 
+01655: stand
+01656: walk
+01656: walk forward
+01656: walk forward
+01657: walk forward
+01658: walk forward
+01658: walk forward
+01658: walk forward
+01659: walk forward
+01659: goe forward
+01660: walk forward
+01661: goe forward
+01661: down walk
+01661: stand
+01662: 
+01662: 
+01662: 
+01662: 
+01663: around forward back walk turn
+01664: goe around
+01664: turn walk forward
+01665: turn left forward walk
+01665: around turn back walk
+01666: left forward walk
+01666: turn walk forward
+01666: turn left forward walk
+01666: perfom around back walk turn
+01666: turn make
+01667: around forward left by walk
+01667: around forward back walk turn
+01668: turn left perform
+01668: turn left forward walk
+01669: turn around forward
+01670: turn
+01670: around forward back walk turn
+01670: turn walk forward left
+01670: around left forward walk turn
+01670: left turn
+01671: walk u-turn forward make
+01671: left perform
+01671: turn left forward walk
+01671: around turn walk
+01671: left turn
+01671: goe turn around forward
+01672: left turn
+01673: walk forward
+01673: walk forward
+01674: walk forward
+01674: forward
+01674: forward
+01675: walk forward
+01675: walk forward
+01676: walk forward
+01676: walk forward
+01677: walk forward
+01677: forward
+01677: walk
+01678: walk forward
+01678: walk forward
+01679: goe forward
+01679: forward
+01679: walk
+01680: walk forward
+01681: walk forward
+01681: walk forward
+01682: walk forward
+01682: walk forward
+01683: walk forward
+01683: walk forward
+01683: walk forward
+01683: walk forward
+01684: walk forward
+01685: walk forward
+01685: walk
+01685: walk
+01686: walk forward
+01686: walk forward
+01686: walk forward
+01687: walk forward
+01688: walk forward
+01689: walk forward
+01689: walk forward
+01690: forward
+01690: walk forward
+01690: make forward
+01691: walk forward
+01691: walk forward
+01692: walk
+01692: walk forward
+01692: walk
+01692: walk
+01693: walk
+01693: walk forward
+01694: walk forward
+01695: walk forward move
+01695: perfom forward
+01696: walk forward
+01697: walk forward
+01698: push left back walk
+01698: push get
+01698: push left
+01699: left
+01699: stand get shove
+01700: left
+01700: push get
+01701: push left
+01701: left perfom
+01701: stand left get shove
+01702: push left get
+01702: push left
+01702: left
+01703: left make
+01703: push left been
+01704: push left make be
+01705: sidestep perform left
+01705: left
+01706: push get jump
+01706: stand push
+01706: push
+01706: push
+01707: push left
+01708: sidestep make left
+01708: push get
+01709: push back get
+01710: stand push
+01710: stand push back
+01710: push sidestep perform be
+01711: back get shove
+01711: push make forward back
+01712: perform forward
+01712: stand push forward get
+01713: push forward
+01714: forward
+01715: push forward
+01715: back get shove
+01716: push forward by
+01716: push back get
+01717: push forward
+01718: push back
+01718: down forward back get
+01719: backward
+01720: backward
+01720: walk backward
+01721: walk backward
+01722: push backward get
+01722: push back get
+01723: walk backward
+01724: backward
+01724: stand walk backward
+01724: push get
+01725: push backward by
+01725: push get
+01726: walk backward
+01727: back
+01727: walk backward
+01727: push back
+01728: walk backward move
+01728: push backward by
+01728: push
+01728: push backward get
+01728: push get
+01728: push back
+01729: forward
+01729: forward
+01729: walk forward
+01729: push forward get
+01730: forward
+01730: stand push get
+01731: stand push back get
+01731: forward
+01732: push make forward back
+01733: do forward low bent knee walk
+01733: push
+01733: 
+01733: walk forward
+01733: down walk
+01733: run
+01733: walk
+01734: push forward get
+01735: forward
+01736: push walk forward be
+01736: push forward get
+01737: stand walk forward
+01737: push back
+01738: move
+01738: forward back get
+01738: forward
+01738: forward
+01739: push left forward walk
+01740: walk
+01740: walk forward
+01740: push walk forward
+01740: push sidestep do walk
+01740: push walk forward get
+01740: walk
+01741: push left forward walk
+01742: push walk forward
+01742: sidestep left forward make back get walk
+01743: left forward walk
+01744: push left forward walk
+01744: sideward walk forward
+01745: push
+01745: left forward walk
+01745: walk forward shove
+01745: goe push left forward back walk
+01745: push walk
+01746: receiv push left walk ahead
+01746: push walk forward get
+01746: walk jump
+01747: push be
+01748: push walk be
+01748: left forward back get shove go walk
+01748: walk forward move
+01748: push walk
+01748: perfom jump back go walk
+01749: push left forward get walk
+01750: push walk forward
+01750: push left forward walk
+01750: walk forward left back
+01751: walk back
+01751: push forward backward get walk
+01752: push forward make backward back walk
+01752: walk do forward back
+01752: push walk forward back
+01753: walk forward backward
+01753: walk forward backward
+01753: push forward backward get walk
+01754: make forward back
+01754: push walk forward
+01755: push walk reach back
+01755: push forward back get walk
+01755: walk forward back get
+01755: walk forward back
+01756: go walk forward backward
+01756: push walk forward
+01756: walk forward back get
+01756: walk forward backward
+01756: push back get walk forwad
+01757: walk forward backward
+01757: walk move back
+01758: goe push forward be by back
+01759: goe forward move back
+01759: forward
+01759: push forward back get walk
+01759: push forward back get walk
+01760: walk forward back
+01760: push forward back get walk
+01761: walk forward
+01761: walk forward
+01761: push walk
+01761: 
+01761: push forward back get walk
+01761: walk forward
+01761: walk forward
+01761: walk forward
+01761: push walk forward get
+01761: make
+01761: forward
+01761: walk do
+01762: walk forward
+01763: walk forward
+01764: walk forward
+01764: 
+01765: receiv push forward back walk
+01766: walk forward
+01766: push walk forward get
+01767: push walk forward
+01767: push walk forward back
+01768: walk forward
+01769: stand walk forward
+01769: make forward move
+01769: forward
+01770: push forward back get walk
+01770: 
+01771: walk forward
+01771: push walk forward get
+01771: push walk be
+01772: forward
+01772: 
+01772: 
+01773: 
+01773: push walk forward get
+01773: push forward get
+01773: 
+01774: push walk ahead
+01775: push walk forward
+01776: push backsid forward walk
+01776: push walk forward get
+01776: forward got shove stand walk
+01777: push walk forward
+01778: push walk forward get
+01778: receiv push walk
+01778: push walk forward back
+01778: forward get pusehd
+01779: push walk
+01779: walk forward get shove
+01779: push forward backward get walk
+01780: walk forward
+01780: push walk backward get
+01781: push walk forward back
+01782: push walk back
+01782: push walk forward back
+01782: push forward backward get walk
+01783: push walk forward back
+01784: move push forward back get walk
+01784: push forward back get walk
+01784: forward back get shove walk
+01785: push walk forward backward
+01785: push get
+01786: push forward backward get
+01786: walk back get
+01786: push forward backward get walk
+01787: push walk forward backward
+01787: push walk forward get
+01788: push walk
+01788: push by forward
+01788: push left forward by walk
+01789: push walk forward
+01789: push walk be
+01789: walk slip
+01789: push walk
+01789: walk
+01789: forward toward back get walk
+01789: push walk ahead
+01789: push left forward by walk
+01789: push left
+01790: push walk forward move
+01790: goe left forward back get shove walk
+01790: left get shove
+01791: push walk forward
+01791: push left forward get walk
+01791: push left forward get walk
+01792: push left forward walk
+01792: push left forward walk
+01793: walk forward
+01794: push left walk
+01795: walk forward
+01795: goe push left forward by sideway
+01795: left forward back get shove walk
+01796: push walk forward
+01796: push walk forward get
+01796: walk make
+01796: left forward walk
+01796: left forward get shove walk
+01796: push left
+01797: push get
+01797: perfom jump goe forward back walk
+01798: push walk forward
+01799: forward hit back get walk
+01799: push left forward get walk
+01799: left forward back
+01800: push walk forward left
+01801: left walk
+01801: push back get
+01801: left forward back get shove walk
+01802: push left walk get
+01802: push walk forward be
+01802: push get
+01803: push left be
+01804: push left be
+01805: push left forward walk
+01805: receiv push sidestep walk
+01805: push walk back get
+01805: forward back get shove walk
+01805: push left
+01805: walk forward get shove
+01806: sidestep forward left walk
+01806: walk left forward back sideway
+01806: push left forward get walk
+01806: 
+01807: push walk left get
+01807: push left forward make back get walk
+01807: push walk been
+01808: push
+01808: stand push sidestep left
+01809: push
+01809: 
+01810: push
+01810: push
+01811: sidestep
+01812: stand push be
+01812: walk
+01812: push
+01812: push move by
+01812: 
+01812: push left
+01813: 
+01813: stand push get
+01814: 
+01814: stand push get
+01814: make
+01815: push left by be
+01816: push left
+01816: stand push get
+01816: stand left get shove
+01816: push left
+01817: push left be
+01817: perfom
+01818: stand push back
+01818: push left back be
+01818: left backward back get stand
+01818: push get
+01818: push backward get
+01818: perfom backward
+01819: stand push backward
+01819: rear make
+01819: sidestep push left be back
+01819: push left backward
+01820: backward
+01820: push backward get
+01821: push back
+01821: push back get
+01822: backward
+01822: push get
+01822: push sidestep perform back
+01822: push backward be
+01822: push backward get
+01822: backward get shove
+01822: push back get
+01823: push by back get
+01823: backward
+01824: push back
+01824: push get
+01825: backward
+01825: make backward get
+01825: stand push get
+01825: push
+01826: push backward be
+01826: push backward
+01826: push back get
+01826: push backward get
+01826: back
+01826: backward jump
+01827: backward
+01827: backward
+01828: push
+01828: push forward back get
+01829: push
+01829: push
+01829: push
+01829: push make forward back
+01830: stand forward
+01830: push get
+01830: stand push get
+01830: get shove
+01831: push be
+01831: push get
+01832: forward
+01832: forward
+01833: push
+01833: push forward by
+01833: forward get shove
+01834: push back
+01834: push been
+01835: push
+01836: push forward get
+01836: push sidestep do be
+01836: 
+01837: forward shove
+01837: stand get shove
+01838: push backward
+01838: been hit
+01839: push back
+01840: push by back get stand
+01840: back get shove
+01840: stand push backward get
+01840: back
+01840: push back
+01841: push be
+01841: push backward
+01841: push backward get
+01842: receiv push forward backward
+01842: lost backward fell
+01843: backward
+01843: push backward by
+01843: backward
+01844: stand backward
+01844: backward
+01844: push make back get
+01845: push get
+01845: push back get
+01846: push be
+01846: performinga sidestep push be back
+01847: receiv push left
+01847: push get
+01848: stand
+01848: sidestep do jump
+01848: jump
+01848: push
+01849: push
+01849: jump
+01849: jump
+01849: left jump
+01849: push be
+01849: stand make sidejump
+01849: 
+01849: jump
+01849: jump
+01849: move
+01849: push get
+01849: make jump
+01849: jump
+01850: push
+01851: push left
+01851: stand push get
+01852: stand
+01852: push
+01852: stand push left
+01852: stand push get
+01852: jump
+01853: push left
+01853: push
+01854: by shove
+01854: stand push get
+01854: been hit
+01855: push left get
+01855: receiv push left
+01855: push
+01855: stand push get
+01855: stand left get shove
+01856: push left by get stand
+01856: stand push get
+01857: push forward back get walk
+01858: push walk forward back
+01858: walk forward get shove
+01859: push walk forward
+01860: walk forward back hit
+01860: down walk forward
+01860: push walk forward get
+01860: walk
+01861: 
+01861: push walk forward
+01861: walk forward get shove
+01861: push walk get
+01861: walk kick
+01862: push forward off get walk
+01862: push walk forward back
+01862: push walk forward get
+01862: 
+01863: forward move
+01863: push walk forward get
+01863: walk forward
+01864: walk forward move
+01864: push walk forward get
+01864: 
+01865: push walk
+01865: push walk forward back
+01865: forward
+01866: push walk forward back
+01866: push walk forward back
+01867: push forward back get walk
+01867: by walk
+01867: push forward be back down walk
+01868: push walk
+01868: walk forward back
+01868: walk perfom backward forward
+01869: walk
+01869: walk forward back shove
+01869: forward move hit
+01870: push forward make backward walk
+01870: walk forward
+01871: run
+01872: push walk forward backward
+01872: walk
+01872: walk
+01873: push walk forward backward
+01873: walk forward
+01873: push walk forward get
+01873: walk
+01874: goe push forward make back ahead
+01875: push walk forward
+01876: walk forward
+01876: walk forward jump
+01876: left forward walk
+01877: sidestep push left forward get walk perform
+01878: left perform jump
+01878: push left forward get walk
+01879: push walk
+01879: shove walk be
+01880: goe push left forward by get go
+01881: push walk forward
+01881: push walk get
+01881: push left forward walk
+01882: jump left forward by walk
+01882: push left forward get walk
+01883: push walk forward be
+01883: sidestep do walk
+01883: push walk forward
+01883: walk
+01883: walk make
+01884: push walk forward be
+01884: lost
+01884: walk
+01884: 
+01884: walk forward
+01884: push left forward walk
+01884: left forward toward back
+01884: push left walk get
+01884: walk forward get shove
+01884: push left walk get
+01885: left forward walk
+01886: push be
+01886: make
+01887: jump push left forward make walk
+01887: sidestep do push left walk
+01888: push left down walk
+01888: push walk forward get
+01888: push walk forward
+01889: push left forward walk
+01889: push left forward get walk
+01890: push left forward walk
+01890: push walk forward get
+01891: push walk
+01891: walk
+01892: react walk
+01892: push walk forward get
+01893: push left forward walk
+01894: push walk forward
+01895: walk
+01895: walk forward
+01895: push forward
+01895: walk forward
+01896: goe push left forward by get
+01896: walk forward
+01896: push walk forward get
+01897: push walk forward
+01898: walk forward
+01898: push walk forward get
+01899: walk forward
+01900: make forward
+01900: walk forward along
+01900: perfom
+01901: push wake ahead
+01902: push walk forward get
+01903: walk forward backward
+01903: walk forward backward
+01904: walk back
+01904: walk forward backward
+01904: push forward backward get walk
+01905: danc
+01905: walk forward back
+01906: walk forward backward
+01906: walk forward backward
+01906: push walk forward
+01906: walk backward kick
+01907: walk forward
+01907: push walk forward be
+01907: walk forward back
+01907: perfom goe forward backward back walk
+01907: forward backward
+01908: walk forward back
+01908: goe walk forward back
+01909: walk forward back
+01910: walk forward backward
+01910: goe forward back
+01910: walk do backward forward
+01911: walk forward backward
+01911: push walk forward
+01912: goe walk forward back
+01912: push forward back get walk
+01912: walk forward
+01913: goe push left by back
+01913: walk
+01913: walk perfom forward jump
+01914: 
+01914: push
+01914: pusehd left walk get
+01915: walk forward make
+01916: move push left forward get walk
+01916: push walk forward get
+01917: push forward get walk perform
+01917: push walk forward get
+01918: move back
+01919: 
+01919: push
+01919: make
+01919: left walk
+01920: push walk forward
+01920: 
+01921: walk forward
+01921: push left
+01922: push left get
+01922: push left forward get walk
+01923: push left forward walk
+01924: push left forward be walk
+01924: push walk forward get
+01924: sidestep left forward back walk
+01924: left perfom walk jump
+01924: push left
+01925: walk left kick get
+01925: push left forward get walk
+01926: push left forward walk
+01926: by around forward walk
+01927: push walk
+01927: push left forward get walk
+01927: push walk left
+01928: push get
+01928: walk
+01928: push walk forward
+01929: walk shake
+01929: push walk forward left
+01929: 
+01930: push left forward walk
+01931: sidestep left walk
+01931: push walk forward back
+01931: walk forward
+01931: sidestep do push forward be walk
+01932: walk forward
+01933: make
+01933: forward
+01933: push forward
+01934: push forward by
+01934: make forward
+01934: push forward be singl perform
+01935: push back get
+01935: forward
+01935: forward
+01936: singl perform
+01937: receiv push back
+01938: singl push make
+01938: forward
+01938: forward
+01938: push forward get
+01939: push back get
+01939: singl push perform forward
+01940: goe forward
+01941: forward
+01941: forward
+01941: push
+01941: push back get
+01941: forward back get
+01942: do push be backward stand
+01942: make backward
+01942: push get
+01943: push backward get
+01943: walk
+01943: perfom backward
+01944: backward
+01944: singl perform backward
+01944: make backward
+01944: push get
+01944: back
+01945: push get
+01945: push backward be
+01945: push
+01945: push get
+01945: make backward
+01945: goe back
+01946: push get
+01946: backward
+01946: push get
+01947: push be
+01947: perfom backward
+01948: make backward
+01948: push
+01948: stand push backward get
+01949: backward
+01949: back
+01950: back
+01950: push backward by
+01950: push backward get
+01950: make backward
+01951: backward
+01951: push backward get
+01952: left
+01952: push sideway left by
+01952: stand push left get
+01953: stand
+01954: 
+01954: do
+01954: 
+01955: stand walk
+01955: walk
+01956: sidestep
+01956: push
+01956: push sidestep left
+01956: 
+01956: sidestep
+01957: stand walk rightward
+01957: 
+01957: 
+01958: push make backward
+01958: do
+01958: sideway
+01959: 
+01959: stand push
+01959: goe
+01960: stand sidestep perform
+01960: sidestep perform
+01960: 
+01960: 
+01961: 
+01961: 
+01961: do
+01961: 
+01961: 
+01961: goe
+01962: run
+01962: jog
+01963: run forward
+01964: run make
+01964: jog
+01965: jog
+01965: run forward
+01966: forward jog
+01966: run back
+01967: run
+01967: run
+01967: forward jog
+01968: 
+01969: run forward
+01969: forward jogg
+01969: forward jog
+01969: forward jog
+01970: run
+01970: forward jogg
+01971: run left turn
+01972: walk clockwis
+01973: walk turn
+01973: walk bend
+01973: left walk
+01973: walk
+01973: walk
+01973: walk
+01973: walk
+01973: walk
+01974: turn
+01974: turn
+01975: turn
+01975: walk bend
+01975: walk
+01976: turn walk forward
+01976: walk turn
+01976: walk perform bend
+01977: turn make clockwis
+01977: walk
+01977: turn
+01978: walk
+01978: walk
+01979: counter walk clockwis
+01979: walk
+01980: left forward
+01980: walk perform left
+01981: turn left forward walk
+01981: left walk
+01982: counter walk clockwis
+01983: left turn walk
+01983: left walk
+01983: left turn
+01983: move
+01983: walk perform left
+01983: left turn
+01984: walk counterclockwis
+01985: counter walk clockwis
+01986: left turn
+01986: left move
+01987: left walk
+01987: left forward walk
+01987: left turn
+01988: left turn walk
+01989: goe turn forward back
+01990: walk turn
+01990: around forward back walk spin
+01991: turn make
+01991: around turn back walk
+01992: around forward back walk turn
+01992: left forward around back walk turn
+01993: turn walk forward
+01994: turn around forward walk
+01994: turn walk forward
+01995: turn walk forward make
+01995: turn walk forward
+01996: turn walk forward back
+01996: left forward back walk turn
+01996: around turn
+01997: around forward back walk spin
+01997: turn walk perform left
+01998: turn left forward walk
+01999: turn walk make left
+02000: walk turn
+02001: turn perform
+02001: do left by walk turn
+02001: turn left forward walk
+02001: left turn
+02001: goe turn around forward
+02002: turn around forward
+02003: turn perform
+02003: left turn perform
+02004: walk
+02004: around forward back walk turn
+02005: run forward
+02005: run forward
+02006: forward move jog
+02006: jog
+02006: run forward
+02007: run forward
+02007: run forward
+02007: jog
+02007: run forward
+02008: run
+02008: 
+02008: forward jog
+02009: run
+02009: run forward
+02009: 
+02010: run
+02011: run
+02011: run
+02011: run
+02012: run
+02012: run
+02013: run
+02013: run
+02013: run forward
+02014: run
+02014: run
+02014: run
+02015: forward
+02015: run forward
+02015: run
+02015: run
+02016: run
+02016: run forward
+02016: run forward
+02016: run
+02016: run
+02016: run
+02017: run
+02018: run forward
+02019: run
+02019: run
+02020: run forward
+02020: run
+02020: run forward
+02020: run
+02021: 
+02021: run forward
+02021: run
+02022: turn walk forward back
+02022: around spin walk
+02023: around turn
+02023: around forward back walk spin
+02024: move goe around forward back turn
+02024: move around forward walk turn
+02025: around forward back walk spin
+02026: left forward back walk perform
+02026: turn
+02027: turn make
+02027: turn forward
+02028: low held walk back
+02028: turn
+02028: turn walk forward
+02029: turn around forward walk
+02029: walk turn
+02029: goe back
+02029: walk turn back
+02029: around turn walk ahead
+02029: by
+02029: turn walk make
+02029: turn walk forward
+02029: goe turn around forward
+02030: walk turn back
+02030: around forward perform walk turn
+02030: around forward back stand walk turn
+02030: walk u-turn
+02030: turn walk forward
+02030: turn
+02030: walk turn forward
+02030: turn walk perform
+02030: around forward back walk turn
+02031: turn walk forward back
+02031: turn walk forward
+02032: turn around forward walk
+02032: turn walk forward back
+02032: left around forward back walk turn
+02032: turn
+02033: turn around make forward
+02033: goe turn around forward
+02033: up left forward back walk turn
+02033: turn perform
+02034: around forward back walk turn
+02035: around forward backward walk spin
+02036: left back walk turn counterclockwis
+02036: turn left forward walk
+02037: walk forward
+02038: goe around forward back turn
+02038: turn perform
+02039: move forward along backward turn
+02039: around left by walk turn
+02039: around turn anticlockwis
+02040: down walk back
+02040: turn left forward walk
+02041: down kneel touch
+02042: down kneel
+02043: down kneel
+02043: stand down knee get
+02043: down knee get
+02044: down kneel
+02044: stand down knee get
+02044: kneel
+02045: knee get
+02045: goe down knee
+02046: put knee
+02046: down knee get
+02047: down knee
+02047: down left do kneel
+02047: down knee get up
+02047: stand down knee get
+02048: down kneel
+02048: down kneel
+02049: down kneel
+02049: down knee get
+02050: down kneel
+02050: go down knee
+02050: down knee get
+02050: goe down knee
+02051: goe sideway knee
+02051: down knee get
+02051: down kneel
+02051: goe down knee
+02051: down kneel
+02051: go down knee
+02051: goe down knee
+02052: down kneel pose
+02052: down perform kneel
+02052: goe down knee
+02052: goe down knee
+02053: down kneel
+02053: by kneel back
+02054: down kneel show
+02054: down rise kneel up
+02054: move up goe knee down
+02054: goe down knee
+02055: down kneel
+02055: down make kneel pose
+02055: down kneel
+02056: knee get
+02056: down kneel up
+02056: down kneel
+02056: down left kneel
+02057: goe down knee pose
+02057: down left kneel
+02057: goe down knee
+02057: kneel
+02058: down sit
+02058: down knee get
+02059: knee get
+02059: down kneel
+02059: goe down knee
+02060: goe down knee
+02060: goe down knee
+02060: kneel
+02061: stand kneel up
+02061: up push by get kneel
+02061: stand knee up
+02062: stand knee up
+02062: stand up
+02062: get up kneel
+02062: up
+02063: stand up
+02063: stand knee up
+02063: stand up
+02063: stand knee up
+02064: stand kneel up
+02064: stand left up
+02064: stand kneel up
+02064: stand knee up
+02065: stand kneel up
+02065: stand up
+02065: stand knee up
+02066: stand kneel up
+02066: stand kneel up
+02066: stand up
+02067: stand up
+02068: stand kneel up
+02068: stand kneel up
+02069: stand knee up
+02069: stand up
+02070: stand kneel up
+02070: left get up kneel
+02070: stand up
+02070: stand up crawl
+02070: stand knee up
+02071: stand left kneel up
+02071: stand up
+02072: knee get up
+02072: get up kneel
+02072: stand knee up
+02073: stand kneel up
+02073: up push left by knee get
+02074: stand up
+02075: stand down kneel up
+02075: up push left by get kneel
+02075: up put stand down kneel
+02075: stand kneel up
+02075: knee get up
+02076: goe down
+02076: down kneel
+02077: go
+02078: knee
+02078: knee get
+02079: down knee
+02079: go down kneel
+02079: down knee
+02079: goe down knee
+02079: knee
+02079: goe have knee down
+02080: go
+02081: down kneel
+02081: get crawl
+02081: goe down knee
+02081: goe down
+02082: down knee get
+02083: down get
+02083: make knee
+02083: goe down knee
+02083: goe down knee
+02084: stand kneel up
+02084: stand up
+02085: stand knee up
+02085: stand up
+02086: stand up
+02087: stand up
+02088: get up
+02088: stand down kneel up
+02089: lay up push off by knee stand
+02089: rest rise
+02089: get up kneel
+02089: stand up crawl
+02089: stand knee up
+02090: stand up
+02091: stand up
+02092: stand up
+02092: stand up
+02092: stand up
+02092: get up be
+02093: stand up be
+02093: stand up
+02094: down forward get crawl
+02094: down knee get crawl
+02095: goe crawl
+02095: stand down get crawl
+02095: forward crawl
+02095: forward crawl knee stand down go
+02095: stand down get crawl
+02095: crawl
+02096: go forward crawl
+02096: down kneel crawl
+02096: crawl
+02096: knee get crawl
+02096: goe down knee crawl
+02096: crawl
+02097: goe down crawl
+02097: forward crawl knee stand down go
+02097: down kneel crawl
+02098: go crawl
+02098: crawl
+02098: crawl
+02098: walk
+02099: crawl
+02099: down get
+02099: goe knee crawl
+02099: walk
+02099: around knee get down walk
+02100: crawl
+02100: forward crawl go down kneel
+02101: down kneel crawl
+02101: down forward get crawl
+02101: goe forward crawl knee down
+02101: goe down knee crawl
+02102: forward crawl get stand down
+02103: down kneel crawl
+02103: goe knee crawl
+02103: crawl
+02104: forward crawl
+02104: crawl
+02104: walk around knee get
+02105: down by kneel show
+02105: down kneel
+02105: goe down knee
+02105: down kneel
+02106: down kneel
+02107: down kneel show
+02107: down kneel
+02108: down left kneel touch
+02108: down knee get
+02108: knee get
+02108: crawl
+02108: down knee get
+02109: down kneel
+02109: down knee kneel
+02109: down kneel
+02110: goe down knee
+02110: goe down knee
+02111: down kneel
+02111: down knee get
+02111: knee get
+02112: done knee get
+02112: goe down knee
+02112: stand knee
+02113: down knee sit
+02113: down kneel
+02113: down kneel
+02113: goe down knee
+02114: down knee
+02114: down kneel
+02115: walk forward
+02115: walk jump
+02115: walk forward jump
+02116: walk forward jump
+02117: walk jump
+02118: walk perform forward jump
+02119: walk forward jump
+02119: goe forward jump
+02119: walk forward jump
+02119: walk forward up jump
+02119: forward jump
+02119: walk jump
+02119: walk forward up jump
+02120: walk make forward jump
+02120: walk do forward jump
+02121: walk forward up jump
+02122: walk forward jump
+02123: walk jump
+02123: walk forward jump
+02123: walk jump
+02124: walk forward jump
+02125: walk forward jump
+02125: walk upward jump
+02125: walk perfom forward jump
+02127: reach
+02128: reach
+02129: left interact
+02132: 
+02133: left reach
+02134: reach
+02135: perform swipe
+02138: left
+02139: 
+02140: left perform swipe
+02141: left
+02142: left make
+02143: left perform swipe
+02146: 
+02148: 
+02150: 
+02151: toward move touch
+02152: put down
+02155: 
+02156: move
+02157: 
+02159: make
+02160: perform
+02161: do
+02162: 
+02165: pick up put left back down
+02167: pick up put left back down
+02168: up put left down pick
+02171: pick up put left back down
+02173: down make hang
+02174: down move back
+02176: down move back
+02177: upward bend
+02180: down move back
+02181: down upward move back
+02183: move
+02184: down move back
+02186: down move up
+02190: down toward move up
+02193: interact
+02195: interact
+02197: 
+02198: perform
+02199: around move
+02200: 
+02201: 
+02202: perform
+02209: down run
+02211: forward move
+02212: play
+02233: perform punch box
+02234: left
+02235: play
+02237: run
+02239: stand kneel up
+02240: stand kneel up
+02241: up knee back stand walk
+02242: stand kneel up
+02243: sit up by knee stand
+02244: stand knee sit up
+02245: 
+02247: make
+02248: knee bend up pose
+02250: run
+02252: 
+02253: run
+02255: run forward
+02256: run roll
+02258: 
+02259: turn around forward back
+02261: do up hang by climb
+02265: climb
+02271: crawl
+02278: pick up
+02279: sideward do punch
+02280: 
+02282: danc
+02283: around danc jump
+02285: do danc
+02288: kick up jump
+02290: danc
+02291: danc
+02292: move danc
+02295: forward
+02296: 
+02298: 
+02302: forward move
+02304: 
+02305: walk forward
+02307: walk backward back
+02311: forward
+02315: down forward move
+02317: forward jump
+02318: limp walk
+02320: left jump
+02322: left forward
+02323: walk
+02327: walk perform
+02328: walk
+02329: swing down walk bent
+02334: walk forward
+02336: swing walk
+02339: forward move
+02340: walk forward
+02342: walk
+02344: walk
+02345: left
+02346: perform squad
+02350: walk
+02351: move up forward crawl knee get walk
+02354: forward move jump
+02355: jump
+02356: get jump
+02357: make forward shuffl jump
+02358: perfom forward move
+02359: do exercis
+02364: goe forward
+02365: left forward walk
+02367: turn forward shuffl
+02373: walk forward
+02378: 
+02383: 
+02384: 
+02388: by left up
+02389: 
+02390: forward move
+02392: perform
+02393: perform
+02394: walk forward backward
+02398: perform
+02399: 
+02400: do move forward punch backward
+02401: walk forward backward perform
+02403: forward bow back
+02405: walk backward
+02406: walk backward
+02407: walk
+02409: walk backward
+02410: walk backward
+02411: walk knee bend
+02413: walk backward
+02414: goe forward backward bend
+02416: 
+02417: goe backward
+02418: walk backward
+02420: put forward down
+02421: forward move
+02422: walk forward
+02423: walk forward
+02424: goe forward
+02425: walk hang
+02426: walk backward
+02427: walk backward
+02429: walk
+02430: walk backward
+02435: walk forward jump
+02440: up be bent pick walk
+02441: walk bent
+02442: walk
+02447: drunken drink
+02449: 
+02450: move
+02452: pick up
+02453: 
+02462: stand around
+02463: s-shape walk
+02469: pose
+02470: pick around walk up
+02471: down walk bend
+02473: pick walk drink up
+02474: pick walk up
+02475: 
+02476: left walk
+02478: stand
+02480: attent around move
+02483: perform bend
+02487: run
+02489: around run
+02490: left bent walk
+02493: lay down stand up
+02494: stand up
+02495: walk
+02498: have put
+02499: walk
+02500: 
+02503: around
+02507: walk
+02508: walk
+02509: around
+02510: around walk
+02511: stand bent up
+02512: lay get up
+02513: goe stand up
+02514: lay stand up
+02518: get up
+02523: stand down sit up
+02526: 
+02527: by drink
+02528: drink
+02530: around sit walk
+02540: reach
+02541: 
+02542: make forward back walk turn
+02543: walk sit up
+02545: play
+02546: box
+02548: do back
+02549: turn
+02551: around walk
+02553: do kickbox up
+02556: left do kickbox
+02558: left forward perform
+02560: 
+02561: left punch perform
+02568: box
+02571: do forward punch
+02573: box
+02574: punch move make
+02578: make
+02579: pushup
+02581: forward backward
+02582: danc
+02583: around walk
+02584: sideway forward backward
+02586: around walk
+02588: left turn walk
+02591: walk left bend
+02593: walk crawl
+02594: put forward move by
+02595: forward move
+02596: walk turn bend
+02597: walk forward
+02598: walk
+02599: walk
+02601: 
+02602: back
+02603: left turn back walk
+02606: move forward back walk turn
+02608: walk
+02609: walk back
+02610: walk
+02611: down left walk up
+02614: walk forward back
+02616: around forward walk
+02618: around back walk
+02621: up forward bent backward walk
+02622: do
+02623: walk forward
+02624: swing forward backward hang
+02625: swing back jump
+02626: perform move danc
+02628: jump
+02633: down walk up
+02634: goe around back walk turn
+02636: 
+02640: counter-clockwis walk
+02642: walk
+02644: down walk up
+02646: by do
+02647: go down up
+02648: 
+02649: walk
+02651: down walk
+02654: walk jump
+02660: down
+02666: down climb up
+02671: back
+02673: singl jump
+02674: play jump
+02676: run forward jump
+02677: 
+02678: perform
+02685: pose
+02687: stand
+02688: do yoga
+02691: 
+02693: danc
+02695: goe
+02702: walk forward
+02703: walk
+02704: walk forward
+02706: walk
+02707: walk forward
+02708: walk forward
+02710: walk
+02714: walk
+02715: swing walk forward
+02717: walk
+02718: walk forward
+02719: walk
+02721: walk
+02722: walk forward
+02723: walk
+02724: forward move
+02725: walk
+02727: walk
+02730: goe down
+02736: walk
+02738: counter-clockwis revolut up flap forward down walk
+02746: walk
+02749: forward backward bend
+02751: 
+02752: move
+02754: danc
+02756: swing walk forward
+02758: around make
+02760: around forward swing bent stand
+02769: danc
+02772: sideward left jump
+02773: up
+02774: do around walk perform danc
+02780: walk
+02781: s-shape around forward back walk turn
+02784: 
+02786: 
+02795: left jump
+02796: make pirouett jump
+02797: counter perform clockwis jump
+02799: up forward back pick walk
+02800: pick put down up
+02801: pick put down up
+02802: around turn perform
+02804: walk
+02805: down walk backward up
+02806: back stand sit up
+02807: sit
+02808: 
+02811: left box
+02813: left
+02815: wipe
+02817: walk
+02818: 
+02820: around forward back walk
+02823: danc
+02824: run
+02825: down climb up
+02826: walk along
+02829: sideward left back walk
+02830: around forward run back turn
+02831: walk
+02832: left forward touch walk bend
+02833: 
+02842: pick up
+02844: around move
+02848: put move up
+02849: reach have left forward make touch down
+02862: play
+02864: perform
+02866: swing do hit
+02867: play
+02868: play
+02869: left
+02870: play
+02871: left
+02873: pick up
+02874: pick down get up
+02876: 
+02878: pick up
+02880: touch
+02881: pick perform forward up
+02883: pick up
+02884: pick left up
+02885: pick left up
+02887: pick
+02888: reach forward knee back down perform bend
+02891: perform kick
+02892: forward kick
+02893: kick
+02894: make forward kick
+02895: left up
+02896: reach up left forward bent knee stand
+02897: 
+02900: rest sit
+02901: up
+02902: forward move
+02903: walk up
+02904: walk up
+02905: walk up
+02906: walk up
+02907: 
+02910: run jump
+02911: forward jump
+02913: put run
+02914: counterclockwis jump
+02916: do jump
+02920: by left turn jump
+02922: play
+02924: perform kick jump
+02925: get sit up
+02926: stand down sit up
+02927: low down sit
+02928: stand down sit up
+02934: up
+02935: stand up
+02940: down around
+02943: left
+02945: pick around down up
+02947: pick up
+02948: down
+02953: around
+02955: stand up
+02956: stand up
+02958: forward move
+02960: perform squad
+02961: walk
+02963: 
+02964: left forward bent back walk
+02965: walk
+02967: walk
+02968: around forward walk
+02971: down bend
+02974: 
+02976: run
+02978: run
+02979: run
+02980: run
+02987: around whirl
+02988: run forward
+02990: around turn
+02992: run forward
+02993: 
+02994: left run
+02996: play
+02999: left do
+03002: push left jump
+03003: left make jump
+03005: run forward
+03007: run play
+03009: 
+03010: perform crawl
+03015: perform punch
+03016: forward punch box
+03022: 
+03023: 
+03030: 
+03033: pick up
+03035: put
+03036: wear
+03038: swing push
+03039: write
+03041: drink
+03043: cast fish
+03044: pick up
+03045: 
+03046: drink
+03047: stand drink
+03048: drink
+03049: drink
+03050: 
+03054: 
+03057: 
+03058: box
+03062: stand
+03064: up around forward left swing bend
+03065: 
+03068: put
+03069: down around move bend
+03070: do danc
+03071: hit
+03072: 
+03073: mimic
+03077: 
+03081: around
+03082: perform
+03083: 
+03084: steer
+03086: 
+03087: put up
+03091: off shave
+03094: bow back get
+03098: 
+03099: 
+03101: 
+03102: do exercis
+03104: 
+03107: 
+03109: perform move
+03111: 
+03113: pick up
+03116: fish
+03120: 
+03121: 
+03122: 
+03128: stand off
+03130: put left
+03131: had pour drink
+03136: be
+03139: 
+03142: drive perform
+03143: play
+03144: make move drink
+03148: 
+03151: touch
+03155: shake bent
+03157: 
+03161: turn bend
+03163: punch forward box
+03166: down up
+03167: pick perform
+03176: stand swim perform
+03178: run forward
+03179: walk forward
+03181: forward jump
+03184: walk forward
+03186: 
+03187: 
+03188: back
+03189: swing danc
+03190: 
+03191: low perform punch kick
+03192: by shake knee perform bend
+03193: 
+03194: stand walk sit up
+03196: walk
+03197: stand around hang
+03198: 
+03200: walk shake
+03202: around forward back walk turn
+03204: walk forward be
+03205: make handshak
+03207: walk
+03209: sideway walk left
+03211: turn around forward run
+03215: down jump
+03216: around sit
+03219: around forward walk
+03220: walk forward
+03221: walk turn
+03223: walk
+03224: walk forward
+03227: knock
+03228: reach
+03230: forward
+03232: perform forward
+03235: perform forward rightward
+03236: make
+03237: goe forward
+03238: perform
+03239: goe
+03240: 
+03241: down perform
+03243: left forward
+03244: left forward by go perform
+03245: left do
+03246: left-diagon perform
+03248: left
+03249: walk
+03251: do exercis
+03252: low
+03256: goe walk forward up
+03257: walk up
+03258: walk
+03259: walk
+03262: perform back
+03263: climb
+03264: climb
+03265: left turn walk
+03267: left turn walk ahead
+03268: go around
+03269: jump
+03270: forward jump
+03276: forward jump
+03277: make forward jump
+03278: forward jump
+03279: forward jump
+03280: left turn jump
+03281: counter perform clockwis jump
+03282: left turn jump
+03283: counter perform clockwis jump
+03284: left do
+03285: turn jump
+03286: counterclockwis jump
+03288: left turn jump
+03289: spin jump
+03290: turn jump
+03291: left turn jump
+03292: long
+03293: turn jump
+03297: sidestep make
+03298: 
+03299: perform
+03304: danc
+03310: danc
+03311: make backflip danc
+03314: around turn
+03322: sit up stand down walk run counterclockwis
+03323: exercis
+03324: up
+03329: flip perform back
+03331: turn
+03333: do
+03334: 
+03336: perform backflip
+03338: do
+03340: turn do flac flic
+03341: around whirl
+03342: do exercis
+03344: stand forward backward bent
+03348: backward do roll
+03349: left perform
+03353: turn perform kick
+03356: back jump
+03358: perform
+03359: backflip land do back
+03363: jump
+03364: walk forward back slip
+03365: down forward are back
+03367: 
+03370: walk
+03371: ontop jump
+03372: walk
+03374: walk forward backward
+03375: danc
+03376: exercis
+03381: do forward
+03382: forward roll make
+03385: walk
+03386: walk
+03391: sleepwalk forward walk
+03396: down walk forward backward
+03397: down walk up
+03400: walk turn
+03401: around turn back walk
+03402: move around forward march back turn
+03403: around forward back walk turn
+03404: forward backward
+03411: walk back
+03413: back
+03417: around turn back walk
+03418: forward backward
+03419: swing walk forward
+03424: make forward jump
+03425: jump
+03430: down perform jump
+03431: turn left forward jump
+03433: perform jump
+03434: jump left make forward turn
+03436: around turn jump
+03438: turn left perform jump
+03439: around turn jump
+03440: turn walk forward
+03441: counter perform clockwis jump
+03442: counter-clockwis perform jump
+03443: do pirouett
+03444: turn jump
+03446: stand put bow
+03448: perform move danc
+03449: danc
+03452: swing forward
+03453: danc
+03455: danc
+03457: give
+03458: perform
+03459: perform danc
+03461: danc
+03462: danc
+03474: run
+03476: do
+03477: walk do
+03478: run forward
+03479: run
+03480: run
+03481: left run
+03483: run
+03486: run
+03487: 
+03489: left run
+03492: left run
+03494: play
+03495: run forward bend jump
+03498: run forward bent jump
+03499: perform move
+03501: move
+03503: run
+03505: play
+03507: stand knee bend
+03508: perform exercis
+03510: danc
+03511: danc
+03512: turn do
+03513: walk
+03518: run
+03522: run forward
+03524: run forward
+03526: run
+03528: walk jump
+03532: 
+03533: walk
+03534: walk forward
+03535: walk forward
+03536: walk forward
+03537: walk
+03538: walk
+03542: walk forward
+03545: walk along
+03546: walk
+03547: walk along
+03548: walk forward
+03554: around walk
+03555: walk forward
+03558: walk
+03559: around walk
+03562: run
+03566: walk
+03569: walk forward
+03570: run
+03571: 
+03572: walk
+03574: walk
+03577: 
+03578: move
+03580: around forward back walk turn
+03583: walk forward backward
+03585: walk forward backward
+03588: down walk up
+03589: around turn back walk
+03590: around forward back walk turn
+03593: around forward back walk turn
+03597: around walk
+03600: down walk up
+03604: walk forward backward
+03606: walk
+03607: walk forward
+03611: make jump
+03614: forward jump
+03617: left turn jump
+03618: jump
+03620: do forward jump
+03624: spin up jump
+03627: turn jump
+03628: turn around forward walk
+03629: counter perform clockwis jump
+03630: land around up jump
+03631: clockwis jump
+03632: perform jump
+03635: go forward
+03636: walk
+03637: perform jump
+03639: jump left perform by turn
+03641: walk
+03642: walk
+03643: 
+03645: swing danc
+03646: 
+03647: 
+03650: down get sit up
+03654: 
+03655: 
+03656: call come
+03657: walk punch
+03662: walk turn
+03663: slalom walk
+03664: walk backward
+03665: walk
+03669: walk forward
+03670: walk
+03671: walk forward
+03673: walk
+03674: swing walk forward
+03676: walk
+03678: walk forward
+03680: walk forward
+03682: run forward
+03683: run
+03684: left jog
+03685: jog
+03686: forward jog
+03687: down run
+03689: run forward
+03691: jog
+03694: run jump
+03695: 
+03697: jump
+03699: walk run
+03705: 
+03706: walk backward
+03708: crawl
+03711: stand back up
+03712: lay down stand up
+03713: left by knee stand turn
+03715: stand sit up
+03717: lay down
+03719: around turn back walk
+03720: stand down sit
+03722: knee bend up
+03723: pick up
+03726: left roll
+03728: walk turn
+03730: roll
+03731: walk left
+03732: around forward back walk turn
+03733: left do
+03734: 
+03736: goe down up
+03737: 
+03742: 
+03746: downward move goe back perform
+03748: stand up
+03749: up
+03750: stand around turn up
+03753: down walk up
+03754: goe
+03755: walk
+03757: sit up back stand down walk
+03762: sit forward down walk perform
+03764: pick up
+03766: stand pick give up
+03767: pick up
+03771: pick up
+03776: make forward jump
+03777: forward
+03778: make forward jump
+03780: jump
+03781: forward jump
+03783: jump
+03784: perform jump
+03785: jump
+03787: perform jump
+03788: make jump
+03790: forward
+03791: forward jump
+03793: forward jump
+03795: forward jump
+03797: perform jump
+03798: jump
+03799: forward jump
+03800: forward jump
+03801: forward jump
+03802: forward jump
+03805: walk
+03806: around walk jump
+03811: put back kick danc
+03813: walk forward
+03817: walk forward bent
+03824: around forward back walk turn
+03825: around walk
+03826: walk
+03828: 
+03830: 
+03832: make
+03833: make
+03834: make forward
+03836: down make
+03837: do bend knee pose
+03839: perform
+03841: low down
+03842: sidestep make left
+03846: 
+03849: go up
+03851: 
+03853: goe
+03854: put up
+03855: go foward walk up
+03856: walk up
+03857: climb forward move
+03860: walk
+03861: walk up
+03862: around left by walk turn
+03863: walk turn
+03865: walk forward
+03866: jump
+03868: perform jump
+03873: forward jump
+03874: perform forward jump
+03876: forward jump
+03877: flight left jump
+03878: left turn jump
+03879: turn jump
+03881: 
+03882: turn jump
+03883: by around make jump
+03885: left up jump
+03890: do
+03895: goe pick forward up
+03896: 
+03898: play
+03899: bounc make move
+03901: make play
+03902: swing
+03903: 
+03905: forward jump
+03906: 
+03910: swim
+03913: swim
+03914: rest
+03916: swim backstrok
+03917: swim
+03919: swim
+03921: swim
+03922: swim
+03925: swim crawl
+03926: swim
+03929: stand
+03930: shake do up
+03932: run
+03935: run forward
+03937: run
+03939: run
+03940: run forward
+03943: run
+03944: left run around
+03951: do role forward jump
+03952: perform forward roll
+03953: run jump
+03954: run jump
+03955: run jump
+03956: run jump
+03957: pick run up
+03959: down move
+03960: down move bend
+03961: run
+03962: run forward
+03964: down up
+03965: run forward touch
+03966: run get up
