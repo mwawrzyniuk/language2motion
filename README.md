@@ -13,7 +13,9 @@ The use-case is based on a paper "[Learning a bidirectional mapping between huma
     - [x] assign 5 dummy(ish) classes with PCA and k-means on motion annotations
     - [x] classify motion images (+in fastai, +in swift)
   - language 2 label
-    - [ ] \* Transformer encoder on annotation + classifier
+    - [x] Transformer encoder on annotation + classifier
+    - [ ] \* batched prediction
+    - [ ] \* Use BERT classifier to assign better labels
   - motion 2 label
     - [ ] Transformer encoder on motion + classifier
     - [ ] RNN encoder on motion + classifier
@@ -25,8 +27,16 @@ The use-case is based on a paper "[Learning a bidirectional mapping between huma
 
 ## Dataset files
 * original: [2017-06-22.zip](https://motion-annotation.humanoids.kit.edu/downloads/4/)
-* processed: [img2label_ds_v1.tgz](https://github.com/wojtekcz/language2motion/releases/download/v0.1.0/img2label_ds_v1.tgz)
-* annotations and labels: [labels_ds_v1.csv](https://github.com/wojtekcz/language2motion/releases/download/v0.1.0/labels_ds_v1.csv)
+* processed: 
+  * [img2label_ds_v1.tgz](https://github.com/wojtekcz/language2motion/releases/download/v0.1.0/img2label_ds_v1.tgz)
+  * [img2label_ds_v2.tgz](https://github.com/wojtekcz/language2motion/releases/download/v0.1.0/img2label_ds_v2.tgz)
+* annotations and labels: 
+  * [labels_ds_v1.csv](https://github.com/wojtekcz/language2motion/releases/download/v0.1.0/labels_ds_v1.csv)
+  * [labels_ds_v2.csv](https://github.com/wojtekcz/language2motion/releases/download/v0.1.0/labels_ds_v2.csv)
+
 
 ## Motion player
 * [C3D file player](http://biomechanical-toolkit.github.io/mokka/index.html)
+
+## Runtime env
+* [custom swift-jupyter](https://github.com/wojtekcz/swift-jupyter/tree/language2motion)

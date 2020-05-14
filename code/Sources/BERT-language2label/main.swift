@@ -18,6 +18,9 @@ import ModelSupport
 import TensorFlow
 import TextModels
 
+// let device = Device.defaultXLA
+// print(device)
+
 let bertPretrained = BERT.PreTrainedModel.bertBase(cased: false, multilingual: false)
 let workspaceURL = URL(
     fileURLWithPath: "bert_models", isDirectory: true,
@@ -25,7 +28,8 @@ let workspaceURL = URL(
         fileURLWithPath: NSTemporaryDirectory(),
         isDirectory: true))
 let bert = try BERT.PreTrainedModel.load(bertPretrained)(from: workspaceURL)
-var bertClassifier = BERTClassifier(bert: bert, classCount: 1)
+var bertClassifier = BERTClassifier(bert: bert, classCount: 5)
+// bertClassifier.move(to: device)
 
 // Regarding the batch size, note that the way batching is performed currently is that we bucket
 // input sequences based on their length (e.g., first bucket contains sequences of length 1 to 10,
@@ -38,24 +42,26 @@ var bertClassifier = BERTClassifier(bert: bert, classCount: 1)
 // it is done to improve memory usage and computational efficiency when dealing with sequences of
 // varied lengths. Note that this is not used in the original BERT implementation released by
 // Google and so the batch size setting here is expected to differ from that one.
-let maxSequenceLength = 128
-let batchSize = 1024
+let maxSequenceLength = 50
+let batchSize = 3096
 
-// Create a function that converts examples to data batches.
-let exampleMapFn: (CoLA.Example) -> CoLA.DataBatch = { example -> CoLA.DataBatch in
-    let textBatch = bertClassifier.bert.preprocess(
-        sequences: [example.sentence],
-        maxSequenceLength: maxSequenceLength)
-    return CoLA.DataBatch(
-        inputs: textBatch, labels: example.isAcceptable.map { Tensor($0 ? 1 : 0) })
-}
+let dsURL = URL(fileURLWithPath: "/notebooks/language2motion.gt/data/labels_ds_v2.csv")
 
-var cola = try CoLA(
-    exampleMap: exampleMapFn,
-    taskDirectoryURL: workspaceURL,
+var dataset = try Language2Label(
+    datasetURL: dsURL,
     maxSequenceLength: maxSequenceLength,
     batchSize: batchSize,
-    dropRemainder: true)
+    entropy: SystemRandomNumberGenerator()
+) { (example: Language2LabelExample) -> LabeledTextBatch in
+    let textBatch = bertClassifier.bert.preprocess(
+        sequences: [example.text],
+        maxSequenceLength: maxSequenceLength)
+   return (data: textBatch, 
+           label: example.label.map { 
+               (label: Language2LabelExample.LabelTuple) in Tensor(Int32(label.idx))
+           }!
+          )
+}
 
 print("Dataset acquired.")
 
@@ -66,70 +72,79 @@ var optimizer = WeightDecayedAdam(
             baseParameter: FixedParameter<Float>(2e-5),
             warmUpStepCount: 10,
             warmUpOffset: 0),
-        slope: -5e-7,  // The LR decays linearly to zero in 100 steps.
+        // slope: -5e-7,  // The LR decays linearly to zero in 100 steps.
+        slope: -1e-7,  // The LR decays linearly to zero in ~500 steps.
         startStep: 10),
     weightDecayRate: 0.01,
     maxGradientGlobalNorm: 1)
 
-print("Training BERT for the CoLA task!")
-for epoch in 1...3 {
-    print("[Epoch \(epoch)]")
-    Context.local.learningPhase = .training
-    var trainingLossSum: Float = 0
-    var trainingBatchCount = 0
-    var trainingDataIterator = cola.trainDataIterator
+// optimizer = WeightDecayedAdam(copying: optimizer, to: device)
 
-    while let batch = withDevice(.cpu, perform: { trainingDataIterator.next() }) {
-        let (documents, labels) = (batch.inputs, Tensor<Float>(batch.labels!))
-        let (loss, gradients) = valueWithGradient(at: bertClassifier) { model -> Tensor<Float> in
-            let logits = model(documents)
-            return sigmoidCrossEntropy(
-                logits: logits.squeezingShape(at: -1),
-                labels: labels,
-                reduction: { $0.mean() })
+print("Training BERT for the Language2Label task!")
+
+time() {
+    for (epoch, epochBatches) in dataset.trainingEpochs.prefix(5).enumerated() {
+        print("[Epoch \(epoch + 1)]")
+        Context.local.learningPhase = .training
+        var trainingLossSum: Float = 0
+        var trainingBatchCount = 0
+        print("epochBatches.count: \(epochBatches.count)")
+
+        for batch in epochBatches {
+            let (documents, labels) = (batch.data, Tensor<Int32>(batch.label))
+            // let (eagerDocuments, eagerLabels) = (batch.data, Tensor<Int32>(batch.label))
+            // let documents = eagerDocuments.copyingTensorsToDevice(to: device)
+            // let labels = Tensor(copying: eagerLabels, to: device)
+            let (loss, gradients) = valueWithGradient(at: bertClassifier) { model -> Tensor<Float> in
+                let logits = model(documents)
+                return softmaxCrossEntropy(logits: logits, labels: labels)
+            }
+
+            trainingLossSum += loss.scalarized()
+            trainingBatchCount += 1
+            optimizer.update(&bertClassifier, along: gradients)
+            // LazyTensorBarrier()
+
+            print(
+                """
+                Training loss: \(trainingLossSum / Float(trainingBatchCount))
+                """
+            )
         }
 
-        trainingLossSum += loss.scalarized()
-        trainingBatchCount += 1
-        optimizer.update(&bertClassifier, along: gradients)
+        print("dataset.validationBatches.count: \(dataset.validationBatches.count)")
+        Context.local.learningPhase = .inference
+        var devLossSum: Float = 0
+        var devBatchCount = 0
+        var correctGuessCount = 0
+        var totalGuessCount = 0
 
+        for batch in dataset.validationBatches {
+            let valBatchSize = batch.data.tokenIds.shape[0]
+
+            let (documents, labels) = (batch.data, Tensor<Int32>(batch.label))
+            // let (eagerDocuments, eagerLabels) = (batch.data, Tensor<Int32>(batch.label))
+            // let documents = eagerDocuments.copyingTensorsToDevice(to: device)
+            // let labels = Tensor(copying: eagerLabels, to: device)
+
+            let logits = bertClassifier(documents)
+            let loss = softmaxCrossEntropy(logits: logits, labels: labels)
+            // LazyTensorBarrier()
+            devLossSum += loss.scalarized()
+            devBatchCount += 1
+
+            let correctPredictions = logits.argmax(squeezingAxis: 1) .== labels
+
+            correctGuessCount += Int(Tensor<Int32>(correctPredictions).sum().scalarized())
+            totalGuessCount += valBatchSize
+        }
+        
+        let accuracy = Float(correctGuessCount) / Float(totalGuessCount)
         print(
             """
-              Training loss: \(trainingLossSum / Float(trainingBatchCount))
+            Accuracy: \(correctGuessCount)/\(totalGuessCount) (\(accuracy)) \
+            Eval loss: \(devLossSum / Float(devBatchCount))
             """
         )
     }
-
-    Context.local.learningPhase = .inference
-    var devLossSum: Float = 0
-    var devBatchCount = 0
-    var devDataIterator = cola.devDataIterator
-    var devPredictedLabels = [Bool]()
-    var devGroundTruth = [Bool]()
-    while let batch = withDevice(.cpu, perform: { devDataIterator.next() }) {
-        let (documents, labels) = (batch.inputs, batch.labels!)
-        let logits = bertClassifier(documents)
-        let loss = sigmoidCrossEntropy(
-            logits: logits.squeezingShape(at: -1),
-            labels: Tensor<Float>(labels),
-            reduction: { $0.mean() }
-        )
-        devLossSum += loss.scalarized()
-        devBatchCount += 1
-
-        let predictedLabels = sigmoid(logits.squeezingShape(at: -1)) .>= 0.5
-        devPredictedLabels.append(contentsOf: predictedLabels.scalars)
-        devGroundTruth.append(contentsOf: labels.scalars.map { $0 == 1 })
-    }
-
-    let mcc = matthewsCorrelationCoefficient(
-        predictions: devPredictedLabels,
-        groundTruth: devGroundTruth)
-
-    print(
-        """
-          MCC: \(mcc)
-          Eval loss: \(devLossSum / Float(devBatchCount))
-        """
-    )
 }

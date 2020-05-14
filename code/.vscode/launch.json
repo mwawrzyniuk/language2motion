@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "ResNet-img2label",
+            "program": "${workspaceFolder}/.build/debug/ResNet-img2label",
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "BERT-language2label",
+            "program": "${workspaceFolder}/.build/debug/BERT-language2label",
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
